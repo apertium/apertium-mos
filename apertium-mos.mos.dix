@@ -14056,7 +14056,7 @@ pardef n="yaang/a__n">
   <e>       <p><l>a</l>        <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>        <r><s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<pardefsũg=n_vblex">
+<pardef sũg=n_vblex">
   <e>       <p><l>i</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>i</l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
    <e>       <p><l>dẽ</l>        <r><s n="vblex"/><s n="imp"/></r></p></e>
