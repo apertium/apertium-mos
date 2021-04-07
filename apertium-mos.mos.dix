@@ -108,24 +108,6 @@
     <e>    <p><l>se</l>    <r>re<s n="n"/><s n="pl"/></r></p></e>  
     <e>    <p><l>sã</l>    <r>re<s n="n"/><s n="pl"/></r></p></e>  
 </pardef>
-<pardef n="ãb/ga__n">
-    <e>    <p><l>ga</l>    <r>ga<s n="n"/><s n="sg"/></r></p></e>  
-    <e>    <p><l>gã</l>    <r>ga<s n="n"/><s n="sg"/></r></p></e> 
-    <e>    <p><l>se</l>    <r>ga<s n="n"/><s n="pl"/></r></p></e>  
-    <e>    <p><l>sã</l>    <r>ga<s n="n"/><s n="pl"/></r></p></e> 
-</pardef>
-<pardef n="ãb/re__n">
-    <e>    <p><l>re</l>    <r>re<s n="n"/><s n="sg"/></r></p></e>  
-    <e>    <p><l>rã</l>    <r>re<s n="n"/><s n="sg"/></r></p></e>  
-    <e>    <p><l>se</l>    <r>re<s n="n"/><s n="pl"/></r></p></e> 
-    <e>    <p><l>sã</l>    <r>re<s n="n"/><s n="pl"/></r></p></e>  
-</pardef>
-<pardef n="ãd/ga__n">
-    <e>    <p><l>ga</l>    <r>ga<s n="n"/><s n="sg"/></r></p></e>  
-    <e>    <p><l>gã</l>    <r>ga<s n="n"/><s n="sg"/></r></p></e> 
-    <e>    <p><l>se</l>    <r>ga<s n="n"/><s n="pl"/></r></p></e>  
-    <e>    <p><l>sã</l>    <r>ga<s n="n"/><s n="pl"/></r></p></e>
-</pardef>
 <pardef n="alsɩlaam/a__n">
     <e>    <p><l>a</l>    <r>a<s n="n"/><s n="sg"/></r></p></e> 
     <e>    <p><l>ã</l>    <r>a<s n="n"/><s n="sg"/></r></p></e> 
@@ -15090,6 +15072,11 @@
 </pardefs>
 
 <section id="main" type="standard">
-  <e><i>blah</i></e>
+  <e lm="ãadga"><i>ãad</i><par n="ãad/ga__n"/></e>
+  <e lm="ãadre"><i>ãad</i><par n="ãad/re__n"/></e>
+  <!-- note that these next 3 refer to the same pardefs as the preceding 2 -->
+  <e lm="ãbga"><i>ãb</i><par n="ãad/ga__n"/></e>
+  <e lm="ãbre"><i>ãb</i><par n="ãad/re__n"/></e>
+  <e lm="ãdga"><i>ãd</i><par n="ãad/ga__n"/></e>
 </section>
 </dictionary>
