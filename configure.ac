@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Mossi], [0.1.0], [khanna.tanmai@gmail.com], [apertium-mos], [http://wiki.apertium.org/wiki/Apertium-mos])
+AC_INIT([Apertium Mossi], [0.1.0], [khanna.tanmai@gmail.com], [apertium-mos], [https://wiki.apertium.org/wiki/Apertium-mos])
 AM_INIT_AUTOMAKE
 AC_PROG_AWK
 
