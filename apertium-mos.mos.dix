@@ -44,7 +44,8 @@
     <sdef n="nt" 	c="Neuter"/> 
     <sdef n="ut" 	c="Utrum"/> 
     <sdef n="f" 	c="Feminine"/> 
-    <sdef n="m" 	c="Masculine"/> 
+    <sdef n="m" 	c="Masculine"/>
+    <sdef n="mf"    c="Masculine or Feminine"/>
     <sdef n="un" 	c="No gender"/> 
     <sdef n="sg" 	c="Singular"/> 
     <sdef n="du" 	c="Dual"/> 
@@ -87,7 +88,12 @@
     <sdef n="lpar" 	c="Left parenthesis"/> 
     <sdef n="rpar" 	c="Right parenthesis"/> 
     <sdef n="lquot" 	c="Left quote"/> 
-    <sdef n="rquot" 	c="Right quote"/> 
+    <sdef n="rquot" 	c="Right quote"/>
+
+
+    <sdef n="postp"    c="postposition?"/>
+    <sdef n="obj"      c="object"/>
+    <sdef n="rel"      c="relative"/>
   </sdefs>
   <pardefs>
 
@@ -888,7 +894,7 @@
 <e>       <p><l>ugu</l>         <r>o<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ugã</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>tu</l>     <r>o<s n="n"/><s n="pl"/></r></p></e>
-<e r="LR"><p><l>t</l>    <r>o<s n="n"/><s n="pl"/></r></p></e
+<e r="LR"><p><l>t</l>    <r>o<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>tã</l>    <r>o<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="fõosr/e__n">
@@ -1707,7 +1713,7 @@
   <e>       <p><l>oogã</l>      <r>go<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>do</l>       <r>go<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>do</l>       <r>go<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>dã</l>       <rgo<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>dã</l>       <r>go<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="perzid/ã__n">
   <e>       <p><l>ã</l>         <r>ã<s n="n"/><s n="sg"/></r></p></e>
@@ -1808,8 +1814,8 @@
 <pardef n="tor-bil/a__n">
   <e>       <p><l>a</l>         <r>ɩ<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>ɩ<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>i /l>        <r>ɩ<s n="n"/><s n="pl"/></r></p></e>
-<e r="LR"><p> <p><l>i wã</l>        <r>ɩ<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>i</l>        <r>ɩ<s n="n"/><s n="pl"/></r></p></e>
+<e r="LR">  <p><l>i wã</l>        <r>ɩ<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="pʋgd/ba__n">
   <e>       <p><l>b</l>        <r>ba<s n="n"/><s n="sg"/></r></p></e>
@@ -2507,7 +2513,7 @@
   <e r="LR"><p><l>egdã</l>      <r>oko<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="tãm/bre__n">
-  <e>       <p><l>bre/l>       <r>bre<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>bre</l>       <r>bre<s n="n"/><s n="sg"/></r></p></e>
  <e>       <p><l>bre</l>       <r>bre<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>brã</l>       <r>bre<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>a</l>         <r>bre<s n="n"/><s n="pl"/></r></p></e>
@@ -3145,7 +3151,8 @@
   <e>       <p><l>ã</l>         <r>di<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ã</l>         <r>di<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="y/elle__n">
+<!-- pardef occurs twice and neither is used -->
+<!--<pardef n="y/elle__n">
   <e>       <p><l>ell</l>       <r>elle<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>elle</l>       <r>elle<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ellã</l>       <r>elle<s n="n"/><s n="sg"/></r></p></e>
@@ -3153,7 +3160,7 @@
   <e r="LR"><p><l>ɛla</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>ɛlã</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ɛlã</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
-</pardef>
+</pardef>-->
 <pardef n="yel-lingd/im__n">
   <e>       <p><l>im</l>        <r>lle<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>imã</l>       <r>lle<s n="n"/><s n="sg"/></r></p></e>
@@ -3400,12 +3407,13 @@
   <e>       <p><l>b-dãmbã</l>   <r>aba<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>b-dãmbã</l>   <r>aba<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="y/elle__n">
+<!-- pardef occurs twice and neither is used -->
+<!--<pardef n="y/elle__n">
   <e>       <p><l>elle</l>        <r>elle<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ellã</l>        <r>elle<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ɛlla</l>        <r>elle<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ɛllã</l>        <r>elle<s n="n"/><s n="pl"/></r></p></e>
-</pardef>	  
+</pardef>-->
 <pardef n="zuu/bu__n">
   <e>       <p><l>bu</l>        <r>bu<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>bã</l>        <r>bu<s n="n"/><s n="sg"/></r></p></e>
@@ -3442,12 +3450,13 @@
   <e r="LR"><p><l>du</l>      <r>gu<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>dã</l>      <r>gu<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="ne/da__n">
+<!-- pardef appears twice, and this is a subset of the other -->
+<!--<pardef n="ne/da__n">
   <e>       <p><l>da</l>    <r>da<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>dã</l>    <r>da<s n="n"/><s n="sg"/></r></p></e>
  <e r="LR"><p><l>ba</l>      <r>da<s n="n"/><s n="pl"/></r></p></e>
  <e>       <p><l>bã</l>      <r>da<s n="n"/><s n="pl"/></r></p></e>
-</pardef>
+</pardef>-->
 <pardef n="ras/em__n">
   <e>       <p><l>em</l>    <r>em<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>emã</l>    <r>em<s n="n"/><s n="sg"/></r></p></e>
@@ -3610,19 +3619,19 @@
   <e>       <p><l>a</l>       <r>re<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>ã</l>       <r>re<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="tãmb/re__adj">
+<pardef n="tãmb/re__adj">
   <e>       <p><l>re</l>          <r>re<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>rã</l>        <r>re<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>a</l>       <r>re<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>ã</l>       <r>re<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>	  
-pardef n="noo/go__adj">
+<pardef n="noo/go__adj">
   <e>       <p><l>go</l>          <r>go<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>go<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>do</l>       <r>go<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>dã</l>       <r>go<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="fa/oogo__adj">
+<pardef n="fa/oogo__adj">
   <e>       <p><l>oogo</l>          <r>oogo<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>oogã</l>        <r>oogo<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>do</l>       <r>oogo<s n="adj"/><s n="pl"/></r></p></e>
@@ -3634,25 +3643,25 @@ pardef n="fa/oogo__adj">
   <e>       <p><l>a</l>       <r>re<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>ã</l>       <r>re<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>			
-pardef n="tʋʋl/go__adj">
+<pardef n="tʋʋl/go__adj">
   <e>       <p><l>go</l>          <r>go<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>go<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>       <r>go<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>sã</l>       <r>go<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>	  
-pardef n="-tʋʋl/go__adj">
+<pardef n="-tʋʋl/go__adj">
   <e>       <p><l>go</l>          <r>go<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>go<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>       <r>go<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>sã</l>       <r>go<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>	  
-pardef n="maas/ga__adj">
+<pardef n="maas/ga__adj">
   <e>       <p><l>ga</l>          <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>       <r>ga<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>sã</l>       <r>ga<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="-maas/ga__adj">
+<pardef n="-maas/ga__adj">
   <e>       <p><l>ga</l>          <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>       <r>ga<s n="adj"/><s n="pl"/></r></p></e>
@@ -3670,37 +3679,37 @@ pardef n="-maas/ga__adj">
   <e>       <p><l>a</l>       <r>re<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>ã</l>       <r>re<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="kã/oogo__adj">
+<pardef n="kã/oogo__adj">
   <e>       <p><l>oogo</l>          <r>oogo<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>oogã</l>        <r>oogo<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>ado</l>       <r>oogo<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>adã</l>       <r>oogo<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="sã/nga__adj">
+<pardef n="sã/nga__adj">
   <e>       <p><l>nga</l>          <r>nga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>ngã</l>        <r>nga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>mba</l>       <r>nga<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>mbã</l>       <r>nga<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="-sã/nga__adj">
+<pardef n="-sã/nga__adj">
   <e>       <p><l>nga</l>          <r>nga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>ngã</l>        <r>nga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>mba</l>       <r>nga<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>mbã</l>       <r>nga<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="-kɩd/ga__adj">
+<pardef n="-kɩd/ga__adj">
   <e>       <p><l>ga</l>          <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>       <r>ga<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>sã</l>       <r>ga<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="kɩd/ga__adj">
+<pardef n="kɩd/ga__adj">
   <e>       <p><l>ga</l>          <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>       <r>ga<s n="adj"/><s n="pl"/></r></p></e>
   <e>       <p><l>sã</l>       <r>ga<s n="adj"/><s n="pl"/></r></p></e>
 </pardef>
-pardef n="wẽn/ga__adj">
+<pardef n="wẽn/ga__adj">
   <e>       <p><l>ga</l>          <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>ga<s n="adj"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>       <r>ga<s n="adj"/><s n="pl"/></r></p></e>
@@ -3725,7 +3734,8 @@ pardef n="wẽn/ga__adj">
 <pardef n="maam__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
-<pardef n="menga__prn">
+<!-- pardefs have the same name and are not used -->
+<!--<pardef n="menga__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="menga__prn">
@@ -3733,7 +3743,7 @@ pardef n="wẽn/ga__adj">
 </pardef>
 <pardef n="menga__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
+</pardef>-->
 <pardef n="meng__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
@@ -3746,27 +3756,31 @@ pardef n="wẽn/ga__adj">
 <pardef n="yẽnda__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
-<pardef n="rẽ__prn">
+<!-- pardef appears twice and neither is used -->
+<!--<pardef n="rẽ__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="rẽnda__prn">
+</pardef>-->
+<!-- pardef appears twice and neither is used -->
+<!--<pardef n="rẽnda__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="bãmba__prn">
+</pardef>-->
+<!-- pardef appears twice and neither is used -->
+<!--<pardef n="bãmba__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
+</pardef>-->
 <pardef n="taaba__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="tõndo__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="mense__prn">
+<!-- pardef appears multiple times and is unused -->
+<!--<pardef n="mense__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="mense__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
+</pardef>-->
 <pardef n="to__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
@@ -3781,7 +3795,6 @@ pardef n="wẽn/ga__adj">
   <e r="LR"><p><l>ynse</l>        <r>nga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ynsã</l>        <r>nga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 </pardef>
-</pardef>
 <pardef n="kã/ngã__prn">
   <e>       <p><l>ngã</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
   <e>       <p><l>ense</l>       <r>ngã<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -3795,12 +3808,14 @@ pardef n="wẽn/ga__adj">
 <pardef n="yãoã__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
-<pardef n="rẽ__prn">
+<!-- pardef appears twice and neither is used -->
+<!--<pardef n="rẽ__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="rẽnda__prn">
+</pardef>-->
+<!-- pardef appears twice and neither is used -->
+<!--<pardef n="rẽnda__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
+</pardef>-->
 <pardef n="ada__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
@@ -3814,9 +3829,10 @@ pardef n="wẽn/ga__adj">
   <e r="LR"><p><l>ynse</l>        <r>nga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ynsã</l>        <r>nga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="bãmba__prn">
+<!-- pardef appears twice and neither is used -->
+<!--<pardef n="bãmba__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
+</pardef>-->
 <pardef n="sẽn__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="rel"/><s n="mf"/><s n="sp"/></r></p></e>
 </pardef>
@@ -3883,9 +3899,6 @@ pardef n="wẽn/ga__adj">
 <pardef n="rẽ n so__cnjsub">
   <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
 </pardef>
-<pardef n="bala__cnjsub">
-  <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
-</pardef>
 <pardef n="bɩ__cnjsub">
   <e>       <p><l></l>          <r><s n="cnjsub"/></r></p></e>
 </pardef>
@@ -3925,7 +3938,6 @@ pardef n="wẽn/ga__adj">
 </pardef>
 <pardef n="tõre___adv">
   <e>       <p><l>ly</l>        <r><s n="adv"/></r></p></e>
-</pardef>
 </pardef>
 <pardef n="n__pr">
   <e>       <p><l></l>          <r><s n="pr"/></r></p></e>
@@ -4070,7 +4082,7 @@ pardef n="wẽn/ga__adj">
 <pardef n="Waogdg/o__np">
   <e>       <p><l>o</l>          <r>O<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ã</l>        <r>O<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-</pardef
+</pardef>
 <pardef n="numeros">
   <e>       <re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
   <e>       <re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
@@ -4259,7 +4271,8 @@ pardef n="wẽn/ga__adj">
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<pardef n="paam/e__vblex">
+<!-- pardef occurs twice and is not used -->
+<!--<pardef n="paam/e__vblex">
   <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>         <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
@@ -4270,7 +4283,7 @@ pardef n="wẽn/ga__adj">
   <e>       <p><l>a</l>         <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="fut"/></r></p></e>
-</pardef>
+</pardef>-->
 <pardef n="yãag/de__vblex">
   <e>       <p><l>de</l>         <r>de<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>de</l>         <r>de<s n="vblex"/><s n="imp"/></r></p></e>
@@ -4360,17 +4373,6 @@ pardef n="wẽn/ga__adj">
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<pardef n="wa__vblex">
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
-  <e w="1"> <p><l>tẽ</l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
-  <e w="1"> <p><l>-y</l>        <r><s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>tame</l>      <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ta</l>        <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>a</l>         <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>me</l>       <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>me</l>       <r><s n="vblex"/><s n="fut"/></r></p></e>
-</pardef>
 <pardef n="wã__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -4455,7 +4457,8 @@ pardef n="wẽn/ga__adj">
   <e>       <p><l>ame</l>       <r>i<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>i<s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-	<pardef n="paam/e__vblex">
+<!-- pardef occurs twice and is not used -->
+<!--<pardef n="paam/e__vblex">
   <e>       <p><l></l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e w="1"> <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
@@ -4465,7 +4468,7 @@ pardef n="wẽn/ga__adj">
   <e>       <p><l>a</l>         <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="fut"/></r></p></e>
-</pardef>
+</pardef> -->
 <pardef n="kell/e__vblex">
   <e>       <p><l>e</l>         <r>v<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
@@ -4696,7 +4699,7 @@ pardef n="wẽn/ga__adj">
   <e>       <p><l>ẽ</l>         <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e w="1"> <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>ame</l>       <r><es n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>a</l>         <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 </pardef>
 <pardef n="rabd/e_vblex">

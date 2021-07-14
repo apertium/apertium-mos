@@ -1,0 +1,23 @@
+name: apertium-mos CI Build
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: dependencies
+      run: |
+           sudo apt-get -qy update
+           sudo apt-get -qfy install wget ca-certificates
+           wget -q https://apertium.projectjj.com/apt/install-nightly.sh -O - | sudo bash
+           sudo apt-get -qfy install --no-install-recommends apertium-all-dev
+    - name: autoreconf
+      run: autoreconf -fvi
+    - name: configure
+      run: ./configure
+    - name: build
+      run: make -j4 V=1 VERBOSE=1
+    #- name: tests
+    #  run: make test V=1 VERBOSE=1
