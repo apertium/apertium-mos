@@ -5611,9 +5611,8 @@
 <e lm="boolle">          <i>booll</i><par n="booll/e__n"/></e>
 <e lm="daag biiga">      <i>daag bii</i><par n="beng-sũn/ga__n"/></e>
 <e lm="raag biiga">      <i>raag bii</i><par n="beng-sũn/ga__n"/></e>
-<e lm="dakãagr">         <i>dakãa</i><par n="dakãa/gr__n"/></e>
-<e lm="rakãagr">         <i>rakãa</i><par n="rakãa/gr__n"/></e>
-<e lm="dakãagr">         <i>dakãa</i><par n="rakãa/gr__n"/></e>
+<e lm="dakãagre">         <i>dakãa</i><par n="dakãa/gre__n"/></e>
+<e lm="rakãagre">         <i>rakãa</i><par n="rakãa/gre__n"/></e>
 <e lm="dakɩɩre">         <i>dakɩɩ</i><par n="dakɩɩ/re__n"/></e>
 <e lm="rakɩɩre">         <i>rakɩɩ</i><par n="dakɩɩ/re__n"/></e>
 <e lm="dakɩya">          <i>dakɩ</i><par n="dakɩ/ya__n"/></e>
