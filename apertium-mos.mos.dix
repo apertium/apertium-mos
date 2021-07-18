@@ -89,8 +89,6 @@
     <sdef n="rpar" 	c="Right parenthesis"/> 
     <sdef n="lquot" 	c="Left quote"/> 
     <sdef n="rquot" 	c="Right quote"/>
-
-
     <sdef n="postp"    c="postposition?"/>
     <sdef n="obj"      c="object"/>
     <sdef n="rel"      c="relative"/>
@@ -876,6 +874,14 @@
   <e>       <p><l>msã</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>msã</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="rũ/nga__n">
+  <e>       <p><l>nga</l>       <r>nga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ngã</l>       <r>nga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>msi</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>msi</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>msã</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>msã</l>       <r>nga<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="faase/m__n">
   <e>       <p><l>m</l>         <r>m<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>mã</l>        <r>m<s n="n"/><s n="sg"/></r></p></e>
@@ -942,14 +948,14 @@
   <e r="LR"><p><l>ã</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="go/mde_n">
-  <e>       <p><l>mde</l>       <r>a<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>md</l>       <r>a<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>mdã</l>       <r>a<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ama</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>am</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ama</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>amã</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>amã</l>       <r>a<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>mde</l>       <r>mde<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>md</l>       <r>mde<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>mdã</l>       <r>mde<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ama</l>       <r>mde<s n="n"/><s n="pl"/></r></p></e>
+<e>       <p><l>am</l>       <r>mde<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ama</l>       <r>mde<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>amã</l>       <r>mde<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>amã</l>       <r>mde<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="goee/le_n">
   <e>       <p><l>le</l>        <r>le<s n="n"/><s n="sg"/></r></p></e>
@@ -1439,7 +1445,7 @@
 <pardef n="makr/e__n">
   <e>       <p><l>e</l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l></l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ã</l>         <r>o<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ã</l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="mams/ga__n">
   <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
@@ -1452,13 +1458,13 @@
   <e r="LR"><p><l>ã</l>         <r>ga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="miis/gu__n">
-  <e>       <p><l>gu</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>g</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>gã</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>du</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>du</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>dã</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>dã</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>gu</l>        <r>gu<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>g</l>        <r>gu<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>gu<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>du</l>        <r>gu<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>du</l>        <r>gu<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>dã</l>        <r>gu<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>dã</l>        <r>gu<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="min/ingu__n">
   <e>       <p><l>ingu</l>      <r>ingu<s n="n"/><s n="sg"/></r></p></e>
@@ -1622,7 +1628,7 @@
   <e>       <p><l>dawã</l>      <r>odre<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>dawã</l>      <r>odre<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="ningɛtga/ɛtga__n">
+<pardef n="ning/ɛtga__n">
   <e>       <p><l>ɛtg</l>      <r>ɛtga<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>ɛtga</l>      <r>ɛtga<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ɛtgã</l>      <r>ɛtga<s n="n"/><s n="sg"/></r></p></e>
@@ -1855,7 +1861,7 @@
   <e>       <p><l>-rãmbã</l>    <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>-rãmbã</l>    <r>a<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="pʋg-yõag/a__n">
+<pardef n="pʋg-yõag/da__n">
   <e>       <p><l>d</l>        <r>da<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>da</l>        <r>da<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>dã</l>        <r>da<s n="n"/><s n="sg"/></r></p></e>
@@ -1952,7 +1958,7 @@
   <e>       <p><l>ap</l>       <r>ore<s n="n"/><s n="pl"/></r></p></e>
  <e>       <p><l>apa</l>       <r>ore<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>apa</l>       <r>ore<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>apã</l>       <r>orere<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>apã</l>       <r>ore<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>aã</l>        <r>ore<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="rao/a__n">
@@ -1995,6 +2001,16 @@
   <e r="LR"><p><l>mã</l>        <r>nga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="reem-dɛɛm/da__n">
+  <e>       <p><l>d</l>        <r>da<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>da</l>          <r>da<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>dã</l>        <r>da<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>db</l>       <r>da<s n="n"/><s n="pl"/></r></p></e>
+ <e>       <p><l>dba</l>       <r>da<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>dba</l>       <r>da<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>dbã</l>       <r>da<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>dbã</l>       <r>da<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="deem-dɛɛm/da__n">
   <e>       <p><l>d</l>        <r>da<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>da</l>          <r>da<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>dã</l>        <r>da<s n="n"/><s n="sg"/></r></p></e>
@@ -2112,13 +2128,13 @@
   <e r="LR"><p><l>dã</l>        <r>onga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="sa/gbo__n">
-  <e>       <p><l>gb</l>       <r>gdo<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>gbo</l>       <r>gdo<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>gbã</l>       <r>gdo<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>bdo</l>       <r>gdo<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>bdo</l>       <r>gdo<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>bdã</l>       <r>gdo<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>bdã</l>       <r>gdo<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>gb</l>       <r>gbo<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>gbo</l>       <r>gbo<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gbã</l>       <r>gbo<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>bdo</l>       <r>gbo<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>bdo</l>       <r>gbo<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>bdã</l>       <r>gbo<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>bdã</l>       <r>gbo<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="sa/oko__n">
   <e>       <p><l>ok</l>       <r>oko<s n="n"/><s n="sg"/></r></p></e>
@@ -2261,8 +2277,8 @@
   <e>       <p><l>u</l>        <r>u<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>        <r>u<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>g</l>        <r>u<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>sii</l>        <r>u<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>sã</l>        <r>u<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>sii</l>      <r>u<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>       <r>u<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="sɩman/de__n">
   <e>       <p><l>d</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
@@ -2276,9 +2292,9 @@
 <pardef n="sɩlman/de__n">
   <e>       <p><l>d</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>de</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>dã</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>dã</l>       <r>de<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>a</l>        <r>de<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>nã</l>        <r>de<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>nã</l>       <r>de<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="so/aamba__n">
   <e>       <p><l>aamb</l>     <r>aamba<s n="n"/><s n="sg"/></r></p></e>
@@ -2390,14 +2406,14 @@
   <e r="LR"><p><l>en-dambã</l>  <r>ne<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="sõm-/soaba__n">
-  <e>       <p><l>soab</l>     <r>a<s n="n"/><s n="sg"/></r></p></e>
- <e>       <p><l>soaba</l>     <r>a<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>soabã</l>     <r>a<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>rãmb</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
- <e>       <p><l>rãmba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>rãmba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>rãmbã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>rãmbã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>soab</l>     <r>soaba<s n="n"/><s n="sg"/></r></p></e>
+ <e>       <p><l>soaba</l>     <r>soaba<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>soabã</l>     <r>soaba<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>rãmb</l>     <r>soaba<s n="n"/><s n="pl"/></r></p></e>
+ <e>       <p><l>rãmba</l>     <r>soaba<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>rãmba</l>     <r>soaba<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>rãmbã</l>     <r>soaba<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>rãmbã</l>     <r>soaba<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="so/ndre__n">
   <e>       <p><l>ndr</l>      <r>ndre<s n="n"/><s n="sg"/></r></p></e>
@@ -2653,11 +2669,20 @@
 </pardef>
 <pardef n="to/aaga__n__dup">
   <e>       <p><l>aaga</l>      <r>aaga<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>aag</l>      <r>aaga<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>aagã</l>      <r>aaga<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ose</l>       <r>aaga<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ose</l>       <r>aaga<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>osã</l>       <r>aaga<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>bósã</l>       <r>aaga<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="toad/ga__n">
+  <e>       <p><l>ga</l>      <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>      <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>se</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>se</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>bsã</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="tõd/gre__n">
   <e>       <p><l>gr           </l>       <r>gre<s n="n"/><s n="sg"/></r></p></e>
@@ -3097,30 +3122,30 @@
   <e r="LR"><p><l>dambã</l>     <r>soaba<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="yao-/bi-pugla__n">
- <e>       <p><l>bi-pugl</l>  <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>bi-pugla</l>  <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>bi-puglã</l>  <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>bi-ribla</l>  <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>bi-riblã</l>  <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ko-pugli</l>  <r>o<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ko-pugli</l>  <r>o<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ko-pugliwã</l><r>o<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ko-pugliwã</l><r>o<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ko-ribli</l>  <r>o<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ko-ribli</l>  <r>o<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ko-ribliwã</l><r>o<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ko-ribliwã</l><r>o<s n="n"/><s n="pl"/></r></p></e>
+ <e>       <p><l>bi-pugl</l>  <r>bi-pugla<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>bi-pugla</l>  <r>bi-pugla<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>bi-puglã</l>  <r>bi-pugla<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>bi-ribla</l>  <r>bi-pugla<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>bi-riblã</l>  <r>bi-pugla<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ko-pugli</l>  <r>bi-pugla<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ko-pugli</l>  <r>bi-pugla<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ko-pugliwã</l> <r>bi-pugla<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ko-pugliwã</l> <r>bi-pugla<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ko-ribli</l>   <r>bi-pugla<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ko-ribli</l>   <r>bi-pugla<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ko-ribliwã</l> <r>bi-pugla<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ko-ribliwã</l> <r>bi-pugla<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="yaoo/bo__n">
-<e>       <p><l>b</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>bo</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>bã</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>dã</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>d</l>         <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>do</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>do</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>dã</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>dã</l>        <r>o<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>b</l>        <r>bo<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>bo</l>        <r>bo<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>bã</l>        <r>bo<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>dã</l>        <r>bo<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>d</l>         <r>bo<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>do</l>        <r>bo<s n="n"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>do</l>        <r>bo<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>dã</l>        <r>bo<s n="n"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>dã</l>        <r>bo<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="y/aoofo__n">
   <e>       <p><l>aoofo</l>     <r>aoofo<s n="n"/><s n="sg"/></r></p></e>
@@ -3151,19 +3176,9 @@
   <e>       <p><l>ã</l>         <r>di<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ã</l>         <r>di<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<!-- pardef occurs twice and neither is used -->
-<!--<pardef n="y/elle__n">
-  <e>       <p><l>ell</l>       <r>elle<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>elle</l>       <r>elle<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ellã</l>       <r>elle<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ɛla</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ɛla</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ɛlã</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ɛlã</l>       <r>elle<s n="n"/><s n="pl"/></r></p></e>
-</pardef>-->
 <pardef n="yel-lingd/im__n">
-  <e>       <p><l>im</l>        <r>lle<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>imã</l>       <r>lle<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>im</l>        <r>im<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>imã</l>       <r>im<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="yel-so/lemde__n">
   <e>       <p><l>lemd</l>     <r>lemde<s n="n"/><s n="sg"/></r></p></e>
@@ -3209,9 +3224,9 @@
   <e r="LR"><p><l>ã</l>       <r>de<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="yẽs/go__n">
-  <e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>go</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>g</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>go</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="yĩm/bu__n">
   <e>       <p><l>bu</l>        <r>bu<s n="n"/><s n="sg"/></r></p></e>
@@ -3334,7 +3349,7 @@
   <e r="LR"><p><l>ẽ-beedã</l>     <r>i<s n="n"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>ẽ-beedã</l>     <r>i<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
-<pardef n="zɩl/demde__n">
+<pardef n="zɩl/emde__n">
 <e>       <p><l>emd</l>      <r>emde<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>emde</l>      <r>emde<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>emdã</l>      <r>emde<s n="n"/><s n="sg"/></r></p></e>
@@ -3344,8 +3359,8 @@
   <e r="LR"><p><l>mã</l>        <r>emde<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="zo/ambdga__n">
-<e>       <p><l>ambdg</l>    <r>gambdga<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ambdga</l>    <r>gambdga<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>ambdg</l>    <r>ambdga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ambdga</l>    <r>ambdga<s n="n"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>ambdga</l>    <r>ambdga<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ambdgã</l>    <r>ambdga<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>mds</l>      <r>ambdga<s n="n"/><s n="pl"/></r></p></e>
@@ -3407,8 +3422,7 @@
   <e>       <p><l>b-dãmbã</l>   <r>aba<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>b-dãmbã</l>   <r>aba<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<!-- pardef occurs twice and neither is used -->
-<!--<pardef n="y/elle__n">
+<pardef n="y/elle__n">
   <e>       <p><l>elle</l>        <r>elle<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ellã</l>        <r>elle<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ɛlla</l>        <r>elle<s n="n"/><s n="pl"/></r></p></e>
@@ -3419,12 +3433,12 @@
   <e>       <p><l>bã</l>        <r>bu<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="zu-zũun/fu__n">
-  <e>       <p><l>fu</l>        <r>aba<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>fã</l>        <r>aba<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>i</l>         <r>aba<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>i</l>         <r>aba<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ã</l>         <r>aba<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ã</l>         <r>aba<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>fu</l>        <r>fu<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>fã</l>        <r>fu<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>i</l>         <r>fu<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>i</l>         <r>fu<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ã</l>         <r>fu<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ã</l>         <r>fu<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="zu-zab/re__n">
   <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
@@ -3432,7 +3446,7 @@
   <e>       <p><l>a</l>         <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>ã</l>         <r>re<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="zĩ,-lik/ri__n">
+<pardef n="zĩ-lik/ri__n">
   <e>       <p><l>ri</l>        <r>ri<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rã</l>        <r>ri<s n="n"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>a</l>         <r>ri<s n="n"/><s n="sg"/></r></p></e>
@@ -3450,13 +3464,6 @@
   <e r="LR"><p><l>du</l>      <r>gu<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>dã</l>      <r>gu<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<!-- pardef appears twice, and this is a subset of the other -->
-<!--<pardef n="ne/da__n">
-  <e>       <p><l>da</l>    <r>da<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>dã</l>    <r>da<s n="n"/><s n="sg"/></r></p></e>
- <e r="LR"><p><l>ba</l>      <r>da<s n="n"/><s n="pl"/></r></p></e>
- <e>       <p><l>bã</l>      <r>da<s n="n"/><s n="pl"/></r></p></e>
-</pardef>-->
 <pardef n="ras/em__n">
   <e>       <p><l>em</l>    <r>em<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>emã</l>    <r>em<s n="n"/><s n="sg"/></r></p></e>
@@ -3734,16 +3741,6 @@
 <pardef n="maam__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
-<!-- pardefs have the same name and are not used -->
-<!--<pardef n="menga__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="menga__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="menga__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>-->
 <pardef n="meng__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
@@ -3756,27 +3753,11 @@
 <pardef n="yẽnda__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
-<!-- pardef appears twice and neither is used -->
-<!--<pardef n="rẽ__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
-</pardef>-->
-<!-- pardef appears twice and neither is used -->
-<!--<pardef n="rẽnda__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
-</pardef>-->
-<!-- pardef appears twice and neither is used -->
-<!--<pardef n="bãmba__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>-->
 <pardef n="taaba__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="tõndo__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
-<!-- pardef appears multiple times and is unused -->
-<!--<pardef n="mense__prn">
-  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="mense__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -3808,14 +3789,12 @@
 <pardef n="yãoã__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
-<!-- pardef appears twice and neither is used -->
-<!--<pardef n="rẽ__prn">
+<pardef n="rẽ__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>-->
-<!-- pardef appears twice and neither is used -->
-<!--<pardef n="rẽnda__prn">
+</pardef>
+<pardef n="rẽnda__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>-->
+</pardef>
 <pardef n="ada__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
@@ -3829,10 +3808,9 @@
   <e r="LR"><p><l>ynse</l>        <r>nga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ynsã</l>        <r>nga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 </pardef>
-<!-- pardef appears twice and neither is used -->
-<!--<pardef n="bãmba__prn">
+<pardef n="bãmba__prn">
   <e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>-->
+</pardef>
 <pardef n="sẽn__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="rel"/><s n="mf"/><s n="sp"/></r></p></e>
 </pardef>
@@ -6195,11 +6173,10 @@
 <e lm="we-kãgre">        <i>we-kãg</i><par n="we-kãg/re__n"/></e>
 <e lm="we-kãoongo">      <i>we-k</i><par n="we-k/ãoongo__n"/></e>
 <e lm="welbre">          <i>welb</i><par n="welb/re__n"/></e>
-<e lm="welbrr">          <i>welbr</i><par n="welbr/e__n"/></e>
+<e lm="welbre">          <i>welbr</i><par n="welbr/e__n"/></e>
 <e lm="we-naafo">        <i>we-</i><par n="we-/naafo__n"/></e>
 <e lm="wẽnd doogo">      <i>wẽnd do</i><par n="wẽnd do/ogo__n"/></e>
 <e lm="wẽnde">           <i>wẽn</i><par n="wẽn/de__n"/></e>
-<e lm="wẽnde">           <i>wẽn</i><par n="wẽn/de__n__dup"/></e>
 <e lm="wẽndlem">         <i>wẽndl</i><par n="wẽndl/em__n"/></e>
 <e lm="wẽn-doogo">       <i>wẽn-do</i><par n="wẽn-do/ogo__n"/></e>
 <e lm="wẽndpʋlengo">     <i>wẽndpʋl</i><par n="wẽndpʋl/engo__n"/></e>
@@ -6474,7 +6451,7 @@
 <e lm="zĩ-koɛɛnga">      <i>zĩ-koɛɛ</i><par n="zĩ-koɛɛ/nga__n"/></e>
 <e lm="zĩ-likri">        <i>zĩ-likr</i><par n="zĩ-likr/i__n"/></e>
 <e lm="zĩm-lɛooga">      <i>zĩm-lɛoo</i><par n="zĩm-lɛoo/ga__n"/></e>
-<e lm="zzĩm-yẽeda">      <i>zzĩm-yẽed</i><par n="zzĩm-yẽed/a__n"/></e>
+<e lm="zĩm-yẽeda">      <i>zĩm-yẽed</i><par n="zĩm-yẽed/a__n"/></e>
 <e lm="zĩnfu">           <i>zĩ</i><par n="zĩ/nfu__n"/></e>
 <e lm="ziri">            <i>zir</i><par n="zir/i__n"/></e>
 <e lm="zĩri-be-neda">    <i>zĩri-be-ne</i><par n="zĩri-be-ne/da__n"/></e>
@@ -6483,7 +6460,7 @@
 <e lm="zĩ-yãabo">        <i>zĩ-yãab</i><par n="zĩ-yãab/o__n"/></e>
 <e lm="zɩɩbo">           <i>zɩɩb</i><par n="zɩɩb/o__n"/></e>
 <e lm="zɩɩm">            <i>zɩɩ</i><par n="zɩɩ/m__n"/></e>
-<e lm="zɩldemde">        <i>zɩl</i><par n="zɩl/demde__n"/></e>
+<e lm="zɩldemde">        <i>zɩl</i><par n="zɩl/emde__n"/></e>
 <e lm="zɩlgda">          <i>zɩlgd</i><par n="zɩlgd/a__n"/></e>
 <e lm="zɩlgre">          <i>zɩlg</i><par n="zɩlg/re__n"/></e>
 <e lm="zɩslem">          <i>zɩsle</i><par n="zɩsle/m__n"/></e>
@@ -6510,177 +6487,177 @@
 <e lm="zʋgo">            <i>zʋ</i><par n="zʋ/go__n"/></e>
 <e lm="zʋlga">           <i>zʋl</i><par n="zʋl/ga__n"/></e>
 <e lm="zʋʋre">           <i>zʋ</i><par n="zʋ/ʋre_n"/></e>
-<e lm="pʋg">             <i>pʋg</i><par n="pʋg__vblex"/></e>
+<e lm="pʋge">             <i>pʋg</i><par n="pʋg/e__vblex"/></e>
 <e lm="kõ">              <i>kõ</i><par n="kõ__vblex"/></e>
 <e lm="kɩ">              <i>kɩ</i><par n="kɩ__vblex"/></e>
 <e lm="kẽ">             <i>kẽ</i><par n="kẽ__vblex"/></e>
-<e lm="ge">              <i>ge</i><par n="ge__vblex"/></e>
+<e lm="gese">              <i>ge</i><par n="ge/se__vblex"/></e>
 <e lm="wa">              <i>wa</i><par n="wa__vblex"/></e>
 <e lm="dɩ">              <i>dɩ</i><par n="wa__vblex"/></e>
 <e lm="rɩ">              <i>rɩ</i><par n="rɩ__vblex"/></e>
-<e lm="sɩng">            <i>sɩng</i><par n="sɩng/e__vblex"/></e>
-<e lm="sõng">            <i>sõng</i><par n="sõng/e__vblex"/></e>
-<e lm="tɩʋʋs">           <i>tɩʋʋs</i><par n="tɩʋʋs/e__vblex"/></e>
-<e lm="gom">             <i>gom</i><par n="gom/e__vblex"/></e>
-<e lm="yee">             <i>yee</i><par n="yee__vblex"/></e>
-<e lm="wilg">            <i>wilg</i><par n="wilg/i__vblex"/></e>
+<e lm="sɩnge">            <i>sɩng</i><par n="sɩng/e__vblex"/></e>
+<e lm="sõnge">            <i>sõng</i><par n="sõng/e__vblex"/></e>
+<e lm="tɩʋʋse">           <i>tɩʋʋs</i><par n="tɩʋʋs/e__vblex"/></e>
+<e lm="gome">             <i>gom</i><par n="gom/e__vblex"/></e>
+<e lm="yeele">             <i>yee</i><par n="yee/le__vblex"/></e>
+<e lm="wilgi">            <i>wilg</i><par n="wilg/i__vblex"/></e>
 <e lm="kẽ">              <i>kẽ</i><par n="kẽ__vblex"/></e>
-<e lm="zems">            <i>zems</i><par n="zems/e__vblex"/></e>
-<e lm="koos">            <i>koos</i><par n="koos/e__vblex"/></e>
-<e lm="sõs">             <i>sõs</i><par n="sõs/e__vblex"/></e>
-<e lm="taas">            <i>taas</i><par n="taas/e__vblex"/></e>
-<e lm="karm">            <i>karm</i><par n="karm/e__vblex"/></e>
-<e lm="maan">            <i>maan</i><par n="maan/e__vblex"/></e>
-<e lm="paas">            <i>paas</i><par n="sɩng__vblex"/></e>
-<e lm="kelg">            <i>kelg</i><par n="sɩng__vblex"/></e>
-<e lm="seg">             <i>seg</i><par n="sɩng__vblex"/></e>
-<e lm="bãng">            <i>bãng</i><par n="sɩng__vblex"/></e>
-<e lm="gãneg">           <i>gãneg</i><par n="gãneg__vblex"/></e>
-<e lm="mag">             <i>mag</i><par n="mag__vblex"/></e>
-<e lm="maneg">           <i>maneg</i><par n="sɩng__vblex"/></e>
-<e lm="sõng">            <i>sõng</i><par n="sɩng__vblex"/></e>
-<e lm="kẽng">            <i>kẽng</i><par n="sɩng__vblex"/></e>
-<e lm="lebg">            <i>lebg</i><par n="sɩng__vblex"/></e>
-<e lm="pam">             <i>pam</i><par n="pam__vblex"/></e>
-<e lm="rɩk">             <i>rɩk</i><par n="sɩng__vblex"/></e>
-<e lm="yãk">             <i>yãk</i><par n="sɩng__vblex"/></e>
-<e lm="pẽg">             <i>pẽg</i><par n="sɩng__vblex"/></e>
+<e lm="zemse">            <i>zems</i><par n="zems/e__vblex"/></e>
+<e lm="koose">            <i>koos</i><par n="koos/e__vblex"/></e>
+<e lm="sõse">             <i>sõs</i><par n="sõs/e__vblex"/></e>
+<e lm="taase">            <i>taas</i><par n="taas/e__vblex"/></e>
+<e lm="karme">            <i>karm</i><par n="karm/e__vblex"/></e>
+<e lm="maane">            <i>maan</i><par n="maan/e__vblex"/></e>
+<e lm="paase">            <i>paas</i><par n="paas/e__vblex"/></e>
+<e lm="kelge">            <i>kelg</i><par n="kelg/e__vblex"/></e>
+<e lm="sege">             <i>seg</i><par n="seg/e__vblex"/></e>
+<e lm="bãnge">            <i>bãng</i><par n="bãng/__vblex"/></e>
+<e lm="gãnege">           <i>gãneg</i><par n="gãneg/e__vblex"/></e>
+<e lm="mage">             <i>mag</i><par n="mag/e__vblex"/></e>
+<e lm="maneg">           <i>maneg</i><par n="maneg/e__vblex"/></e>
+<e lm="sõnge">            <i>sõng</i><par n="sõng/e__vblex"/></e>
+<e lm="kẽnge">            <i>kẽng</i><par n="kẽng/e__vblex"/></e>
+<e lm="lebge">            <i>lebg</i><par n="lebg/e__vblex"/></e>
+<e lm="pame">             <i>pam</i><par n="pam/e__vblex"/></e>
+<e lm="rɩke">             <i>rɩk</i><par n="rɩk/e__vblex"/></e>
+<e lm="yãke">             <i>yãk</i><par n="yãk/e__vblex"/></e>
+<e lm="pẽge">             <i>pẽg</i><par n="pẽg/e__vblex"/></e>
 <e lm="wã">              <i>wã</i><par n="wã__vblex"/></e>
-<e lm="zã">              <i>zã</i><par n="wã__vblex"/></e>
-<e lm="zẽk">             <i>zẽk</i><par n="sɩng__vblex"/></e>
+<e lm="zã">              <i>zã</i><par n="zã__vblex"/></e>
+<e lm="zẽke">             <i>zẽk</i><par n="zẽk/e__vblex"/></e>
 <e lm="lʋɩ">             <i>lʋɩ</i><par n="lʋɩ__vblex"/></e>
-<e lm="kalm">            <i>kalm</i><par n="sɩng__vblex"/></e>
-<e lm="tigm">            <i>tigm</i><par n="wilg__vblex"/></e>
-<e lm="dat">             <i>dat</i><par n="dat__vblex"/></e>
-<e lm="lagem">           <i>lagem</i><par n="sɩng__vblex"/></e>
-<e lm="tall">            <i>tall</i><par n="sɩng__vblex"/></e>
-<e lm="tags">            <i>tags</i><par n="sɩng__vblex"/></e>
-<e lm="zãms">            <i>zãms</i><par n="sɩng__vblex"/></e>
-<e lm="tar">             <i>tar</i><par n="tar__vblex"/></e>
-<e lm="teem">            <i>teem</i><par n="sɩng__vblex"/></e>
+<e lm="kalme">            <i>kalm</i><par n="kalm/e__vblex"/></e>
+<e lm="tigmi">            <i>tigm</i><par n="tigm/i__vblex"/></e>
+<e lm="date">             <i>dat</i><par n="dat/e__vblex"/></e>
+<e lm="lageme">           <i>lagem</i><par n="lageme__vblex"/></e>
+<e lm="talle">            <i>tall</i><par n="tall/e__vblex"/></e>
+<e lm="tagse">            <i>tags</i><par n="tags/e__vblex"/></e>
+<e lm="zãmse">            <i>zãms</i><par n="zãms/e__vblex"/></e>
+<e lm="tare">             <i>tar</i><par n="tar/e__vblex"/></e>
+<e lm="teeme">            <i>teem</i><par n="sɩng__vblex"/></e>
 <e lm="ko">              <i>ko</i><par n="ko__vblex"/></e>
 <e lm="gũ">              <i>gũ</i><par n="gũ__vblex"/></e>
-<e lm="mobg">            <i>mobg</i><par n="mobg__vblex"/></e>
-<e lm="pids">            <i>pids</i><par n="pids__vblex"/></e>
-<e lm="sak">             <i>sak</i><par n="mobg__vblex"/></e>
-<e lm="kell">            <i>kell</i><par n="kell__vblex"/></e>
-<e lm="yãag">            <i>yãag</i><par n="yãag__vblex"/></e>
+<e lm="mobge">            <i>mobg</i><par n="mobg/e__vblex"/></e>
+<e lm="pidsi">            <i>pids</i><par n="pids/i__vblex"/></e>
+<e lm="sake">             <i>sak</i><par n="sak/e__vblex"/></e>
+<e lm="kelle">            <i>kell</i><par n="kell/e__vblex"/></e>
+<e lm="yãage">            <i>yãag</i><par n="yãag/e__vblex"/></e>
 <e lm="yi">              <i>yi</i><par n="wa__vblex"/></e>
-<e lm="teel">            <i>teel</i><par n="teel__vblex"/></e>
+<e lm="teele">            <i>teel</i><par n="teel/e__vblex"/></e>
 <e lm="tũ">              <i>tũ</i><par n="tũ__vblex"/></e>
-<e lm="rat">             <i>rat</i><par n="rat__vblex"/></e>
-<e lm="zĩnd">            <i>zĩnd</i><par n="zĩnd__vblex"/></e>
-<e lm="baal">            <i>baal</i><par n="baal__vblex"/></e>
-<e lm="baas">            <i>baas</i><par n="sɩng__vblex"/></e>
-<e lm="babs">            <i>babs</i><par n="sɩng__vblex"/></e>
-<e lm="bad">             <i>bad</i><par n="bad__vblex"/></e>
-<e lm="bãg">             <i>bãg</i><par n="sɩng__vblex"/></e>
-<e lm="bak">             <i>bak</i><par n="sɩng__vblex"/></e>
-<e lm="bal">             <i>bal</i><par n="sɩng__vblex"/></e>
-<e lm="balg">            <i>balg</i><par n="sɩng__vblex"/></e>
-<e lm="bãneg">           <i>bãneg</i><par n="sɩng__vblex"/></e>
+<e lm="rate">             <i>rat</i><par n="rat/e__vblex"/></e>
+<e lm="zĩndi">            <i>zĩnd</i><par n="zĩnd/i__vblex"/></e>
+<e lm="baale">            <i>baal</i><par n="baal/e__vblex"/></e>
+<e lm="baase">            <i>baas</i><par n="baas/e__vblex"/></e>
+<e lm="babse">            <i>babs</i><par n="babs/e__vblex"/></e>
+<e lm="bade">             <i>bad</i><par n="bad/e__vblex"/></e>
+<e lm="bãge">             <i>bãg</i><par n="bãg/e__vblex"/></e>
+<e lm="bake">             <i>bak</i><par n="bak/e__vblex"/></e>
+<e lm="bale">             <i>bal</i><par n="bal/e__vblex"/></e>
+<e lm="balge">            <i>balg</i><par n="sɩng__vblex"/></e>
+<e lm="bãnege">           <i>bãneg</i><par n="sɩng__vblex"/></e>
 <e lm="bao">             <i>bao</i><par n="tũ__vblex"/></e>
-<e lm="bars">            <i>bars</i><par n="bars__vblex"/></e>
-<e lm="bas">             <i>bas</i><par n="sɩng__vblex"/></e>
+<e lm="barse">            <i>bars</i><par n="bars/e__vblex"/></e>
+<e lm="base">             <i>bas</i><par n="bas/e__vblex"/></e>
 <e lm="be">              <i>be</i><par n="be__vblex"/></e>
-<e lm="beeg">            <i>beeg</i><par n="beeg__vblex"/></e>
-<e lm="beel">            <i>beel</i><par n="sɩng__vblex"/></e>
-<e lm="bees">            <i>bees</i><par n="sɩng__vblex"/></e>
-<e lm="belg">            <i>belg</i><par n="sɩng__vblex"/></e>
-<e lm="belm">            <i>belm</i><par n="beeg__vblex"/></e>
-<e lm="bels">            <i>bels</i><par n="sɩng__vblex"/></e>
-<e lm="bendg">           <i>bendg</i><par n="beeg__vblex"/></e>
-<e lm="beoog">           <i>beoog</i><par n="beeg__vblex"/></e>
-<e lm="beool">           <i>beool</i><par n="sɩng__vblex"/></e>
+<e lm="beege">            <i>beeg</i><par n="beeg/e__vblex"/></e>
+<e lm="beele">            <i>beel</i><par n="beel/e__vblex"/></e>
+<e lm="beese">            <i>bees</i><par n="bees/e__vblex"/></e>
+<e lm="belge">            <i>belg</i><par n="belg/e__vblex"/></e>
+<e lm="belme">            <i>belm</i><par n="belm/e__vblex"/></e>
+<e lm="belse">            <i>bels</i><par n="bels/e__vblex"/></e>
+<e lm="bendge">           <i>bendg</i><par n="bendg/e__vblex"/></e>
+<e lm="beooge">           <i>beoog</i><par n="beoog/e__vblex"/></e>
+<e lm="beoole">           <i>beool</i><par n="beool/e__vblex"/></e>
 <e lm="bɛ">              <i>bɛ</i><par n="bɛ__vblex"/></e>
-<e lm="bidg">            <i>bidg</i><par n="bidg__vblex"/></e>
-<e lm="bilim">           <i>bilim</i><par n="bilim__vblex"/></e>
-<e lm="bils">            <i>bils</i><par n="wilg__vblex"/></e>
-<e lm="bĩng">            <i>bĩng</i><par n="wilg__vblex"/></e>
-<e lm="bɩɩs">            <i>bɩɩs</i><par n="sɩng__vblex"/></e>
-<e lm="bob">             <i>bob</i><par n="sɩng__vblex"/></e>
-<e lm="bog">             <i>bog</i><par n="sɩng__vblex"/></e>
-<e lm="boke">            <i>boke</i><par n="sɩng__vblex"/></e>
-<e lm="bol">             <i>bol</i><par n="sɩng__vblex"/></e>
-<e lm="bõos">            <i>bõos</i><par n="sɩng__vblex"/></e>
-<e lm="bõs">             <i>bõs</i><par n="sɩng__vblex"/></e>
-<e lm="budg">            <i>budg</i><par n="wilg__vblex"/></e>
-<e lm="bug">             <i>bug</i><par n="wilg__vblex"/></e>
-<e lm="bugs">            <i>bugs</i><par n="bidg__vblex"/></e>
+<e lm="bidgi">            <i>bidg</i><par n="bidg/i__vblex"/></e>
+<e lm="bilimi">           <i>bilim</i><par n="bilim__vblex"/></e>
+<e lm="bilsi">            <i>bils</i><par n="bils/i__vblex"/></e>
+<e lm="bĩngi">            <i>bĩng</i><par n="bĩng/i__vblex"/></e>
+<e lm="bɩɩsi">            <i>bɩɩs</i><par n="bɩɩs/i__vblex"/></e>
+<e lm="bobe">             <i>bob</i><par n="bob/e__vblex"/></e>
+<e lm="boge">             <i>bog</i><par n="bog/e__vblex"/></e>
+<e lm="boke">            <i>bok</i><par n="bok/e__vblex"/></e>
+<e lm="bole">             <i>bol</i><par n="bol/e__vblex"/></e>
+<e lm="bõose">            <i>bõos</i><par n="bõos/e__vblex"/></e>
+<e lm="bõs">             <i>bõs</i><par n="bõs/e__vblex"/></e>
+<e lm="budgi">            <i>budg</i><par n="budg/i__vblex"/></e>
+<e lm="bugi">             <i>bug</i><par n="bug/i__vblex"/></e>
+<e lm="bugsi">            <i>bugs</i><par n="bugs/i__vblex"/></e>
 <e lm="bui">             <i>bui</i><par n="bui_vblex"/></e>
 <e lm="bʋ">              <i>bʋ</i><par n="bʋ_vblex"/></e>
-<e lm="bʋd">             <i>bʋd</i><par n="bʋd_vblex"/></e>
-<e lm="bʋgl">            <i>bʋgl</i><par n="bʋgl_vblex"/></e>
-<e lm="bʋglm">           <i>bʋglm</i><par n="beeg__vblex"/></e>
-<e lm="bʋk">             <i>bʋk</i><par n="beeg__vblex"/></e>
-<e lm="dell">            <i>dell</i><par n="gãneg__vblex"/></e>
-<e lm="dems">            <i>dems</i><par n="gãneg__vblex"/></e>
-<e lm="dõd">             <i>dõd</i><par n="dõd_vblex"/></e>
-<e lm="doog">            <i>doog</i><par n="doog_vblex"/></e>
-<e lm="roog">            <i>roog</i><par n="doog_vblex"/></e>
-<e lm="dõos">            <i>dõos</i><par n="doog_vblex"/></e>
-<e lm="rõos">            <i>rõos</i><par n="doog_vblex"/></e>
-<e lm="dʋg">             <i>dʋg</i><par n="doog_vblex"/></e>
-<e lm="rʋg">             <i>rʋg</i><par n="doog_vblex"/></e>
-<e lm="daag">            <i>daag</i><par n="doog_vblex"/></e>
-<e lm="raag">            <i>raag</i><par n="bars__vblex"/></e>
-<e lm="dabd">            <i>dabd</i><par n="dabd_vblex"/></e>
-<e lm="rabd">            <i>rabd</i><par n="rabd_vblex"/></e>
-<e lm="dũng">            <i>dũng</i><par n="dũng_vblex"/></e>
-<e lm="dʋʋg">            <i>dʋʋg</i><par n="bars__vblex"/></e>
-<e lm="dʋʋs">            <i>dʋʋs</i><par n="bars__vblex"/></e>
+<e lm="bʋde">             <i>bʋd</i><par n="bʋd/e_vblex"/></e>
+<e lm="bʋgle">            <i>bʋgl</i><par n="bʋgl/e_vblex"/></e>
+<e lm="bʋglme">           <i>bʋglm</i><par n="bʋglm/e__vblex"/></e>
+<e lm="bʋke">             <i>bʋk</i><par n="bʋk/e__vblex"/></e>
+<e lm="delle">            <i>dell</i><par n="dell/e__vblex"/></e>
+<e lm="demse">            <i>dems</i><par n="dems/e__vblex"/></e>
+<e lm="dõde">             <i>dõd</i><par n="dõd/e_vblex"/></e>
+<e lm="dooge">            <i>doog</i><par n="doog/e_vblex"/></e>
+<e lm="rooge">            <i>roog</i><par n="roog/e_vblex"/></e>
+<e lm="dõose">            <i>dõos</i><par n="dõos/e_vblex"/></e>
+<e lm="rõose">            <i>rõos</i><par n="rõos/e_vblex"/></e>
+<e lm="dʋge">             <i>dʋg</i><par n="dʋg/e_vblex"/></e>
+<e lm="rʋge">             <i>rʋg</i><par n="rʋg/e_vblex"/></e>
+<e lm="daage">            <i>daag</i><par n="daag/e_vblex"/></e>
+<e lm="raage">            <i>raag</i><par n="raag/e__vblex"/></e>
+<e lm="dabde">            <i>dabd</i><par n="dabd/e_vblex"/></e>
+<e lm="rabde">            <i>rabd</i><par n="rabd/e_vblex"/></e>
+<e lm="dũngi">            <i>dũng</i><par n="dũng/i_vblex"/></e>
+<e lm="dʋʋge">            <i>dʋʋg</i><par n="dʋʋg/e__vblex"/></e>
+<e lm="dʋʋse">            <i>dʋʋs</i><par n="dʋʋs/e__vblex"/></e>
 <e lm="fã">              <i>fã</i><par n="fã_vblex"/></e>
-<e lm="fãag">            <i>fãag</i><par n="fãag_vblex"/></e>
-<e lm="faag">            <i>faag</i><par n="faag_vblex"/></e>
-<e lm="faas">            <i>faas</i><par n="bars__vblex"/></e>
-<e lm="fãs">             <i>fãs</i><par n="fãs_vblex"/></e>
-<e lm="fẽdg">            <i>fẽdg</i><par n="faag_vblex"/></e>
-<e lm="fɛɛs">            <i>fɛɛs</i><par n="fɛɛs_vblex"/></e>
-<e lm="fib">             <i>fib</i><par n="fib_vblex"/></e>
-<e lm="fiuug">           <i>fiuug</i><par n="fiuug_vblex"/></e>
-<e lm="fɩb">             <i>fɩb</i><par n="fɛɛs_vblex"/></e>
-<e lm="fɩbs">            <i>fɩbs</i><par n="fɛɛs_vblex"/></e>
-<e lm="fɩsg">            <i>fɩsg</i><par n="fɛɛs_vblex"/></e>
-<e lm="fõbg">            <i>fõbg</i><par n="fɛɛs_vblex"/></e>
-<e lm="foog">            <i>foog</i><par n="fɛɛs_vblex"/></e>
-<e lm="fõog">            <i>fõog</i><par n="fɛɛs_vblex"/></e>
-<e lm="fũk">             <i>fũk</i><par n="fiuug_vblex"/></e>
-<e lm="fʋʋs">            <i>fʋʋs</i><par n="fɛɛs_vblex"/></e>
-<e lm="gaag">            <i>gaag</i><par n="fɛɛs_vblex"/></e>
-<e lm="gaam">            <i>gaam</i><par n="fɛɛs_vblex"/></e>
+<e lm="fãage">            <i>fãag</i><par n="fãag/e_vblex"/></e>
+<e lm="faage">            <i>faag</i><par n="faag/e_vblex"/></e>
+<e lm="faase">            <i>faas</i><par n="faas/e__vblex"/></e>
+<e lm="fãse">             <i>fãs</i><par n="fãs/e_vblex"/></e>
+<e lm="fẽdge">            <i>fẽdg</i><par n="fẽdg/e_vblex"/></e>
+<e lm="fɛɛse">            <i>fɛɛs</i><par n="fɛɛs/e_vblex"/></e>
+<e lm="fibe">             <i>fib</i><par n="fib/e_vblex"/></e>
+<e lm="fiuugi">           <i>fiuug</i><par n="fiuug/i_vblex"/></e>
+<e lm="fɩbi">             <i>fɩb</i><par n="fɩb/i_vblex"/></e>
+<e lm="fɩbse">            <i>fɩbs</i><par n="fɩbs/e_vblex"/></e>
+<e lm="fɩsgi">            <i>fɩsg</i><par n="fɩsg/i_vblex"/></e>
+<e lm="fõbge">            <i>fõbg</i><par n="fõbg/e_vblex"/></e>
+<e lm="fooge">            <i>foog</i><par n="foog/e_vblex"/></e>
+<e lm="fõoge">            <i>fõog</i><par n="fõog/e_vblex"/></e>
+<e lm="fũke">             <i>fũk</i><par n="fũk/e_vblex"/></e>
+<e lm="fʋʋse">            <i>fʋʋs</i><par n="fʋʋs/e_vblex"/></e>
+<e lm="gaage">            <i>gaag</i><par n="gaag/e_vblex"/></e>
+<e lm="gaame">            <i>gaam</i><par n="gaam/e_vblex"/></e>
 <e lm="gã">              <i>gã</i><par n="gã_vblex"/></e>
-<e lm="gãeem">           <i>gãeem</i><par n="fɛɛs_vblex"/></e>
-<e lm="gãneg">           <i>gãneg</i><par n="gãneg_vblex"/></e>
+<e lm="gãeeme">           <i>gãeeme</i><par n="gãeem/e_vblex"/></e>
+<e lm="gãnege">           <i>gãneg</i><par n="gãneg/e_vblex"/></e>
 <e lm="gee">             <i>gee</i><par n="gee_vblex"/></e>
-<e lm="gẽes">            <i>gẽes</i><par n="gẽes_vblex"/></e>
-<e lm="gees">            <i>gees</i><par n="gẽes_vblex"/></e>
-<e lm="gil">             <i>gil</i><par n="gil_vblex"/></e>
-<e lm="gɩb">             <i>gɩb</i><par n="gɩb_vblex"/></e>
-<e lm="gɩdg">            <i>gɩdg</i><par n="fɛɛs_vblex"/></e>
-<e lm="gɩmb">            <i>gɩmb</i><par n="fɛɛs_vblex"/></e>
+<e lm="gẽese">            <i>gẽes</i><par n="gẽes/e_vblex"/></e>
+<e lm="geese">            <i>gees</i><par n="gees/e_vblex"/></e>
+<e lm="gili">             <i>gil</i><par n="gil/i_vblex"/></e>
+<e lm="gɩbe">             <i>gɩb</i><par n="gɩb/e_vblex"/></e>
+<e lm="gɩdge">            <i>gɩdg</i><par n="gɩdge_vblex"/></e>
+<e lm="gɩmbe">            <i>gɩmb</i><par n="gɩmb/e_vblex"/></e>
 <e lm="gõ">              <i>gõ</i><par n="gõ_vblex"/></e>
-<e lm="gom">             <i>gom</i><par n="gom_vblex"/></e>
-<e lm="gũ">              <i>gũ</i><par n="gũ_vblex"/></e>
-<e lm="gũbg">            <i>gũbg</i><par n="gũbg_vblex"/></e>
-<e lm="gũnug">           <i>gũnug</i><par n="gũbg_vblex"/></e>
-<e lm="gũus">            <i>gũus</i><par n="gũbg_vblex"/></e>
-<e lm="gʋls">            <i>gʋls</i><par n="mag__vblex"/></e>
-<e lm="gʋsg">            <i>gʋsg</i><par n="mag__vblex"/></e>
-<e lm="gʋʋ">             <i>gʋʋ</i><par n="gʋʋ_vblex"/></e>
-<e lm="kãab">            <i>kãab</i><par n="kãab_vblex"/></e>
-<e lm="kaag">            <i>kaag</i><par n="kãab_vblex"/></e>
-<e lm="kaans">           <i>kaans</i><par n="mag__vblex"/></e>
-<e lm="kabs">            <i>kabs</i><par n="mag__vblex"/></e>
+<e lm="gome">             <i>gom</i><par n="gom/e_vblex"/></e>
+<e lm="gũsi">              <i>gũ</i><par n="gũ/si_vblex"/></e>
+<e lm="gũbgi">            <i>gũbg</i><par n="gũbg/i_vblex"/></e>
+<e lm="gũnugi">           <i>gũnug</i><par n="gũnug/i_vblex"/></e>
+<e lm="gũusi">            <i>gũus</i><par n="gũus/i_vblex"/></e>
+<e lm="gʋlse">            <i>gʋls</i><par n="gʋls/e__vblex"/></e>
+<e lm="gʋsge">            <i>gʋsg</i><par n="gʋsg/e__vblex"/></e>
+<e lm="gʋʋle">             <i>gʋʋ</i><par n="gʋʋ/le_vblex"/></e>
+<e lm="kãabe">            <i>kãab</i><par n="kãab/e_vblex"/></e>
+<e lm="kaage">            <i>kaag</i><par n="kaag/e_vblex"/></e>
+<e lm="kaanse">           <i>kaans</i><par n="kaans/e__vblex"/></e>
+<e lm="kabse">            <i>kabs</i><par n="kabs/e__vblex"/></e>
 <e lm="kad">             <i>kad</i><par n="kad_vblex"/></e>
-<e lm="kals">            <i>kals</i><par n="mag__vblex"/></e>
-<e lm="kams">            <i>kams</i><par n="mag__vblex"/></e>
-<e lm="kãneg">           <i>kãneg</i><par n="kãab_vblex"/></e>
+<e lm="kalse">            <i>kals</i><par n="kals/e__vblex"/></e>
+<e lm="kamse">            <i>kams</i><par n="kams__vblex"/></e>
+<e lm="kãneg">           <i>kãneg</i><par n="kãneg/e_vblex"/></e>
 <e lm="ka">              <i>ka</i><par n="ka_vblex"/></e>
-<e lm="kaoog">           <i>kaoog</i><par n="kãab_vblex"/></e>
-<e lm="kaoos">           <i>kaoos</i><par n="mag__vblex"/></e>
-<e lm="karm">            <i>karm</i><par n="mag__vblex"/></e>
-<e lm="kedg">            <i>kedg</i><par n="mag__vblex"/></e>
-<e lm="kẽeg">            <i>kẽeg</i><par n="mag__vblex"/></e>
+<e lm="kaooge">           <i>kaoog</i><par n="kaoog/e_vblex"/></e>
+<e lm="kaoose">           <i>kaoos</i><par n="kaoos/e__vblex"/></e>
+<e lm="karm">            <i>karm</i><par n="karm/e__vblex"/></e>
+<e lm="kedge">            <i>kedg</i><par n="kedg/e__vblex"/></e>
+<e lm="kẽege">            <i>kẽeg</i><par n="kẽeg/e__vblex"/></e>
 <e lm="keelg">           <i>keelg</i><par n="mag__vblex"/></e>
 <e lm="kẽes">            <i>kẽes</i><par n="mag__vblex"/></e>
 <e lm="kẽgs">            <i>kẽgs</i><par n="mag__vblex"/></e>
