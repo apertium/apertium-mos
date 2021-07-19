@@ -617,6 +617,15 @@
   <e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="beng-wur/ga__n">
+  <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>si</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>si</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="bĩis/ri__n"><!-- sein -->
   <e>       <p><l>ri</l>        <r>ri<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>r</l>        <r>ri<s n="n"/><s n="sg"/></r></p></e>
