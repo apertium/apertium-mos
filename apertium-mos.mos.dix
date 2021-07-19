@@ -501,6 +501,15 @@
   <e>       <p><l>sã</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>sã</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="baor/go__n">
+  <e>       <p><l>go</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+ <e>       <p><l>g</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>se</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>se</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>sã</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="bã-piuug/dum__n">
   <e>       <p><l>dum</l>       <r>dum<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>dmã</l>       <r>dum<s n="n"/><s n="sg"/></r></p></e>
