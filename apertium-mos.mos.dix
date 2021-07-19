@@ -307,10 +307,17 @@
 </pardef>
 <pardef n="bãens-roo/go__n">
   <e>       <p><l>go</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>g</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>g</l>         <r>go<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>gã</l>        <r>go<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>to</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>tã</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="bad/ga__n">
+  <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>g</l>         <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="bag/ga__n">
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
