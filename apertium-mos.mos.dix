@@ -355,6 +355,15 @@
   <e r="LR"><p><l>em</l>        <r>em<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>emã</l>       <r>em<s n="n"/><s n="sg"/></r></p></e>
 </pardef>
+<pardef n="bearen/ga__n">
+  <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="bambaren/de__n">
   <e>       <p><l>de</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>d</l>        <r>de<s n="n"/><s n="sg"/></r></p></e>
