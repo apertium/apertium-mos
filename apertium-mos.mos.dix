@@ -110,6 +110,29 @@
   <e>       <p><l>se</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>sã</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="ãb/ga__n">
+  <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+ <e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+ <e>       <p><l>ae</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="ãb/re__n">
+  <e>       <p><l>re</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>r</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>rã</l>        <r>re<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>se</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>re<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="ãd/ga__n">
+  <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+ <e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="alsɩlaam/a__n">
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
  <e>       <p><l></l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
@@ -131,7 +154,7 @@
   <e>       <p><l>nã</l>        <r>na<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ãba</l>       <r>na<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>ãbã</l>       <r>na<s n="n"/><s n="pl"/></r></p></e>
-</pardef><!--ãndũni-->
+</pardef>
 <pardef n="ãndũn/i__n">
   <e>       <p><l>i</l>         <r>i<s n="n"/><s n="sg"/></r></p></e>
  <e>       <p><l></l>         <r>i<s n="n"/><s n="sg"/></r></p></e>
@@ -5434,7 +5457,6 @@
   <section id="main" type="standard">
 <e lm="ãadga">           <i>ãad</i><par n="ãad/ga__n"/></e>
 <e lm="ãadre">           <i>ãad</i><par n="ãad/re__n"/></e>
-  <!-- note that these next 3 refer to the same pardefs as the preceding 2 -->
 <e lm="ãbga">            <i>ãb</i><par n="ãb/ga__n"/></e>
 <e lm="ãbre">            <i>ãb</i><par n="ãb/re__n"/></e>
 <e lm="ãdga">            <i>ãd</i><par n="ãd/ga__n"/></e>
