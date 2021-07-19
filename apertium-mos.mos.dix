@@ -4249,8 +4249,7 @@
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<!-- pardef occurs twice and is not used -->
-<!--<pardef n="paam/e__vblex">
+<pardef n="paam/e__vblex">
   <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>         <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
@@ -4435,18 +4434,6 @@
   <e>       <p><l>ame</l>       <r>i<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>i<s n="vblex"/><s n="fut"/></r></p></e>
 </pardef>
-<!-- pardef occurs twice and is not used -->
-<!--<pardef n="paam/e__vblex">
-  <e>       <p><l></l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-  <e w="1"> <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-  <e w="1"> <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>dame</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>da</l>        <r>e<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>a</l>         <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="fut"/></r></p></e>
-</pardef> -->
 <pardef n="kell/e__vblex">
   <e>       <p><l>e</l>         <r>v<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
@@ -4720,7 +4707,6 @@
   <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e>       <p><l>adẽ</l>       <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e w="1"> <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-  <e w="2"> <p><l></l>          <r>e<s n="vblex"/><s n="subs"/></r></p></e>
   <e>       <p><l>dame</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>da</l>        <r>e<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>a</l>         <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -4734,7 +4720,6 @@
   <e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e>       <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
   <e w="1"> <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-  <e w="2"> <p><l></l>          <r>e<s n="vblex"/><s n="subs"/></r></p></e>
   <e>       <p><l>dame</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>da</l>        <r>e<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>a</l>         <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -6878,6 +6863,7 @@
 <e lm="yaase">            <i>yaas</i><par n="yaas/e__vblex"/></e>
 <e lm="yãbe">             <i>yãb</i><par n="yãb/e__vblex"/></e>
 <e lm="yãdge">            <i>yãdg</i><par n="yãdg/e__vblex"/></e>
+<e lm="yãagde">            <i>yãag</i><par n="yãag/de__vblex"/></e>
 <e lm="yãge">             <i>yãg</i><par n="yãg/e__vblex"/></e>
 <e lm="yãke">             <i>yãk</i><par n="yãk/e__vblex"/></e>
 <e lm="yalge">            <i>yalg</i><par n="yalg/e__vblex"/></e>
