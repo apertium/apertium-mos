@@ -282,6 +282,15 @@
   <e>       <p><l>se</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>sã</l>        <r>go<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="ba-bii/ga__n">
+  <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+ <e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>lim</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>limã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>si</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="babg /soaba__n">
   <e>       <p><l>soaba</l>     <r>soaba<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>soab</l>     <r>soaba<s n="n"/><s n="sg"/></r></p></e>
