@@ -527,6 +527,15 @@
   <e>       <p><l>sã</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>sã</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="bar/ga__n">
+  <e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>gã</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>se</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="barsd/a__n">
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l></l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
