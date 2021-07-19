@@ -915,16 +915,16 @@
   <e>       <p><l>ã</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rãmba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>rãmba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e
-  <e>       <p><l>rãmbã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
+<e>       <p><l>rãmbã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>rãmbã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="bugu/m__n">
-  <e>       <p><l>m</l>         <r>m<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ma</l>        <r>m<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-rãmba</l>    <r>m<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>-rãmba</l>    <r>m<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>rãmbã</l>     <r>m<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>rãmbã</l>     <r>m<s n="n"/><s n="pl"/></r></p></e>
+<pardef n="bug/um__n">
+  <e>       <p><l>um</l>         <r>um<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>uma</l>        <r>um<s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>-rãmba</l>    <r>um<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>-rãmba</l>    <r>um<s n="n"/><s n="pl"/></r></p></e>
+  <e>       <p><l>rãmbã</l>     <r>um<s n="n"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>rãmbã</l>     <r>um<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="bug-zõo/se__n">
   <e>       <p><l>se</l>        <r>se<s n="n"/><s n="sg"/></r></p></e>
@@ -5820,7 +5820,7 @@
 <e lm="bõn-daoogo">      <i>bõn-daoo</i><par n="bõn-daoo/go__n"/></e>
 <e lm="bõndo">           <i>bõnd</i><par n="b/õndo__n"/></e>
 <e lm="bõsa">            <i>bõs</i><par n="bõs/a__n"/></e>
-<e lm="bugum">           <i>bugu</i><par n="bugu/m__n"/></e>
+<e lm="bugum">           <i>bugu</i><par n="bug/um__n"/></e>
 <e lm="bug-raoogo">      <i>bug-raoo</i><par n="bug-raoo/go__n"/></e>
 <e lm="bug-tẽnga">       <i>bug-tẽ</i><par n="bug-tẽ/nga__n"/></e>
 <e lm="bug-toaalga">     <i>bug-toaal</i><par n="bug-toaal/ga__n"/></e>
