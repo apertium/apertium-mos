@@ -3719,7 +3719,7 @@
   <e>       <p><l>ellã</l>        <r>elle<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ɛlla</l>        <r>elle<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ɛllã</l>        <r>elle<s n="n"/><s n="pl"/></r></p></e>
-</pardef>-->
+</pardef>
 <pardef n="zuu/bu__n">
   <e>       <p><l>bu</l>        <r>bu<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>bã</l>        <r>bu<s n="n"/><s n="sg"/></r></p></e>
@@ -4053,7 +4053,7 @@
 </pardef>
 <pardef n="mense__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>-->
+</pardef>
 <pardef n="to__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
@@ -4552,7 +4552,7 @@
   <e>       <p><l>a</l>         <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="fut"/></r></p></e>
-</pardef>-->
+</pardef>
 <pardef n="yãag/de__vblex">
   <e>       <p><l>de</l>         <r>de<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>de</l>         <r>de<s n="vblex"/><s n="imp"/></r></p></e>
@@ -5869,7 +5869,7 @@
 <e lm="rakɩɩre">         <i>rakɩɩ</i><par n="rakɩɩ/re__n"/></e>
 <e lm="dakɩya">          <i>dakɩ</i><par n="dakɩ/ya__n"/></e>
 <e lm="rakɩya">          <i>rakɩ</i><par n="rakɩ/ya__n"/></e>
-<e lm="dã-kõagda">       <i>dã-kõagd</i><par dã-kõagd/a__n"/></e>
+<e lm="dã-kõagda">       <i>dã-kõagd</i><par n="dã-kõagd/a__n"/></e>
 <e lm="rã-kõagda">       <i>rã-kõagd</i><par n="rã-kõagd/a__n"/></e>
 <e lm="dakõore">         <i>dakõo</i><par n="dakõo/re__n"/></e>
 <e lm="rakõore">         <i>rakõo</i><par n="rakõo/re__n"/></e>
