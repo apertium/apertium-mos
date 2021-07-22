@@ -914,7 +914,7 @@
 <e>       <p><l></l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>ã</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>rãmba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>rãmba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
+	<e r="LR"><p><l>rãmba</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
 <e>       <p><l>rãmbã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>rãmbã</l>     <r>a<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
@@ -5869,7 +5869,7 @@
 <e lm="rakɩɩre">         <i>rakɩɩ</i><par n="rakɩɩ/re__n"/></e>
 <e lm="dakɩya">          <i>dakɩ</i><par n="dakɩ/ya__n"/></e>
 <e lm="rakɩya">          <i>rakɩ</i><par n="rakɩ/ya__n"/></e>
-<e lm="dã-kõagda">       <i>dã-kõagd</i><par n="dã-kõagd/a__n"/></e>
+<e lm="dã-kõagda">       <i>dã-kõagd</i><par dã-kõagd/a__n"/></e>
 <e lm="rã-kõagda">       <i>rã-kõagd</i><par n="rã-kõagd/a__n"/></e>
 <e lm="dakõore">         <i>dakõo</i><par n="dakõo/re__n"/></e>
 <e lm="rakõore">         <i>rakõo</i><par n="rakõo/re__n"/></e>
