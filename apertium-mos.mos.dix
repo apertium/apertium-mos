@@ -96,6 +96,7 @@
 		
 	
 		<!-- noun -->
+		<pardefs>
 		<pardef n="ãad/ga__n">
 			<e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
 			<e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/></r></p></e>
@@ -14487,6 +14488,7 @@
 		<e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><b/>o'clock</l><r><b/>o'clock<s n="num"/></r></p></e>
 		<e>       <re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
 	</pardef>
+	</pardefs>		
  <section id="main" type="standard">
 	<e lm="ãadga">           <i>ãad</i><par n="ãad/ga__n"/></e>
 	<e lm="ãadre">           <i>ãad</i><par n="ãad/re__n"/></e>
