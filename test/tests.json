@@ -1,0 +1,6 @@
+{
+    "mos-morph": {
+        "input": "mos-morph-input.txt",
+        "mode": "mos-morph"
+    }
+}
