@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
 <analysis-chars>
   <!-- Describe equivalent characters in monodices here. See https://wiki.apertium.org/wiki/Acx for more information. -->
+  <char value="'">
+    <equiv-char value="’"/>
+  </char>
 </analysis-chars>
 
