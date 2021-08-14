@@ -14477,18 +14477,190 @@
 		<e>       <p><l></l>          <r><s n="postp"/></r></p></e>
 		<e>       <p><l>a</l>          <r><s n="postp"/></r></p></e>
    </pardef>
-	<pardef n="wɛɛngẽ__postp">
-		<e>       <p><l></l>          <r><s n="postp"/></r></p></e>
-	</pardef>
-	<pardef n="numeros">
-		<e>       <re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
-		<e>       <re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
-		<e>       <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
-		<e>       <i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
-		<e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><b/>o'clock</l><r><b/>o'clock<s n="num"/></r></p></e>
-		<e>       <re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
-	</pardef>
-	</pardefs>		
+  <pardef n="wɛɛngẽ__postp">
+	<e>       <p><l></l>          <r><s n="postp"/></r></p></e>
+ </pardef>
+ <pardef n="da__vbmod">
+  <e>       <p><l></l>          <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>          <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vaux"/><s n="past"/></r></p></e>
+</pardef>
+<pardef n="pa__vbmod">
+  <e>       <p><l></l>          <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>          <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vaux"/><s n="past"/></r></p></e>
+</pardef>
+<pardef n="ka__vbmod">
+  <e>       <p><l></l>          <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>          <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vaux"/><s n="past"/></r></p></e>
+</pardef>
+<pardef n="ra__vbmod">
+  <e>       <p><l></l>          <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>          <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vaux"/><s n="past"/></r></p></e>
+</pardef>
+<pardef n="na__vbmod">
+  <e>       <p><l></l>          <r><s n="vbmod"/><s n="inf"/></r></p></e>
+  <e r="RL"><p><l></l>          <r><s n="vaux"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vaux"/><s n="pres"/></r></p></e>
+</pardef>
+<pardef n="guionet">
+  <e>       <p><l>-</l>         <r>-<s n="guio"/></r></p></e>
+</pardef>
+
+<pardef n="coma">
+  <e>       <p><l>,</l>         <r>,<s n="cm"/></r></p></e>
+</pardef>
+
+<pardef n="aposchar">
+  <e>       <i>'</i></e>
+  <e r="LR"><p><l>’</l>         <r>'</r></p></e>
+</pardef>
+
+<pardef n="cometa">
+  <e>       <par n="aposchar"/><p><l></l><r><s n="apos"/></r></p></e>
+</pardef>
+<pardef n="separa">
+  <e>       <re>[.\?;:!]+</re><p><l></l><r><s n="sent"/></r></p></e>
+</pardef>
+
+<pardef n="separ">
+  <e>       <re>[¿¡]</re><p><l></l><r><s n="lquest"/></r></p></e>
+</pardef>
+
+<pardef n="paresq">
+  <e>       <re>[\(\[]</re><p><l></l><r><s n="lpar"/></r></p></e>
+</pardef>
+
+<pardef n="pardret">
+  <e>       <re>[\)\]]</re><p><l></l><r><s n="rpar"/></r></p></e>
+</pardef>
+
+<pardef n="emails">
+  <e>       <re>[a-z.]+@[a-z.]+</re><p><l></l><r><s n="num"/></r></p></e>
+</pardef>
+
+<pardef n="urls">
+  <e>       <re>((www.)[a-z\-]+[.][a-z]+)</re><p><l></l><r><s n="num"/></r></p></e>
+</pardef>
+<pardef n="filenames">
+  <e>       <re>[a-z\-_0-9]+.[a-z0-9]+</re><p><l></l><r><s n="n"/><s n="file"/></r></p></e>
+</pardef>
+
+<pardef n="Aa">
+  <e>       <i>A</i></e>
+  <e r="LR"><p><l>a</l>         <r>A</r></p></e>
+</pardef>
+<pardef n="Bb">
+  <e>       <i>B</i></e>
+  <e r="LR"><p><l>b</l>         <r>B</r></p></e>
+</pardef>
+<pardef n="Cc">
+  <e>       <i>C</i></e>
+  <e r="LR"><p><l>c</l>         <r>C</r></p></e>
+</pardef>
+<pardef n="Dd">
+  <e>       <i>D</i></e>
+  <e r="LR"><p><l>d</l>         <r>D</r></p></e>
+</pardef>
+<pardef n="Ee">
+  <e>       <i>E</i></e>
+  <e r="LR"><p><l>e</l>         <r>E</r></p></e>
+</pardef>
+<pardef n="Ff">
+  <e>       <i>F</i></e>
+  <e r="LR"><p><l>f</l>         <r>F</r></p></e>
+</pardef>
+<pardef n="Gg">
+  <e>       <i>G</i></e>
+  <e r="LR"><p><l>g</l>         <r>G</r></p></e>
+</pardef>
+<pardef n="Hh">
+  <e>       <i>H</i></e>
+  <e r="LR"><p><l>h</l>         <r>H</r></p></e>
+</pardef>
+<pardef n="Ii">
+  <e>       <i>I</i></e>
+  <e r="LR"><p><l>i</l>         <r>I</r></p></e>
+</pardef>
+<pardef n="Jj">
+  <e>       <i>J</i></e>
+  <e r="LR"><p><l>j</l>         <r>J</r></p></e>
+</pardef>
+<pardef n="Kk">
+  <e>       <i>K</i></e>
+  <e r="LR"><p><l>k</l>         <r>K</r></p></e>
+</pardef>
+<pardef n="Ll">
+  <e>       <i>L</i></e>
+  <e r="LR"><p><l>l</l>         <r>L</r></p></e>
+</pardef>
+<pardef n="Mm">
+  <e>       <i>M</i></e>
+  <e r="LR"><p><l>m</l>         <r>M</r></p></e>
+</pardef>
+<pardef n="Nn">
+  <e>       <i>N</i></e>
+  <e r="LR"><p><l>n</l>         <r>N</r></p></e>
+</pardef>
+<pardef n="Oo">
+  <e>       <i>O</i></e>
+  <e r="LR"><p><l>o</l>         <r>O</r></p></e>
+</pardef>
+<pardef n="Pp">
+  <e>       <i>P</i></e>
+  <e r="LR"><p><l>p</l>         <r>P</r></p></e>
+</pardef>
+<pardef n="Qq">
+  <e>       <i>Q</i></e>
+  <e r="LR"><p><l>q</l>         <r>Q</r></p></e>
+</pardef>
+<pardef n="Rr">
+  <e>       <i>R</i></e>
+  <e r="LR"><p><l>r</l>         <r>R</r></p></e>
+</pardef>
+<pardef n="Ss">
+  <e>       <i>S</i></e>
+  <e r="LR"><p><l>s</l>         <r>S</r></p></e>
+</pardef>
+<pardef n="Tt">
+  <e>       <i>T</i></e>
+  <e r="LR"><p><l>t</l>         <r>T</r></p></e>
+</pardef>
+<pardef n="Uu">
+  <e>       <i>U</i></e>
+  <e r="LR"><p><l>u</l>         <r>U</r></p></e>
+</pardef>
+<pardef n="Vv">
+  <e>       <i>V</i></e>
+  <e r="LR"><p><l>v</l>         <r>V</r></p></e>
+</pardef>
+<pardef n="Ww">
+  <e>       <i>W</i></e>
+  <e r="LR"><p><l>w</l>         <r>W</r></p></e>
+</pardef>
+<pardef n="Xx">
+  <e>       <i>X</i></e>
+  <e r="LR"><p><l>x</l>         <r>X</r></p></e>
+</pardef>
+<pardef n="Yy">
+  <e>       <i>Y</i></e>
+  <e r="LR"><p><l>y</l>         <r>Y</r></p></e>
+</pardef>
+<pardef n="Zz">
+  <e>       <i>Z</i></e>
+  <e r="LR"><p><l>z</l>         <r>Z</r></p></e>
+</pardef>		
+<pardef n="numeros">
+	<e>       <re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+	<e>       <re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+	<e>       <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
+	<e>       <i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
+	<e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><b/>o'clock</l><r><b/>o'clock<s n="num"/></r></p></e>
+	<e>       <re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+ </pardef>
+ </pardefs>		
  <section id="main" type="standard">
 	<e lm="ãadga">           <i>ãad</i><par n="ãad/ga__n"/></e>
 	<e lm="ãadre">           <i>ãad</i><par n="ãad/re__n"/></e>
@@ -16083,6 +16255,21 @@
 	<e lm="soaba">            <i>soaba</i><par n="soab/a__postp"/></e>
 	<e lm="yĩnga">            <i>yĩng</i><par n="yĩng/a__postp"/></e>
 	<e lm="wɛɛngẽ">          <i>wɛɛngẽ</i><par n="wɛɛngẽ__postp"/></e>
+	 <e lm="da">           <i>ãad</i><par n="da__vbmod"/></e>
+	<e lm="pa">           <i>ãad</i><par n="pa__vbmod"/></e>
+	<e lm="ka">           <i>ãad</i><par n="ka__vbmod"/></e>
+	<e lm="ra">           <i>ãad</i><par n="ra__vbmod"/></e>
+	<e lm="na">           <i>ãad</i><par n="na__vbmod"/></e>
+	<e>                      <par n="coma"/></e>
+	<e>                      <par n="cometa"/></e>
+	<e>                      <par n="paresq"/></e>
+	<e>                      <par n="pardret"/></e>
+	<e>                      <par n="persons"/></e>
+	<e>                      <par n="separ"/></e>
+	<e>                      <par n="guionet"/></e>
+	<e>                      <par n="emails"/></e>
+	<e>                      <par n="urls"/></e>
+	<e>                      <par n="filenames"/></e>
 	<e>                      <par n="numeros"/></e>
 	</section>
 </dictionary>
