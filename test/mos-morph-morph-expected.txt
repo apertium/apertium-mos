@@ -1,2 +1,2 @@
-[C4g2JFij-NUd#0] ^pagbã/paga<n><pl>$ ^na/*na$ ^kẽes/*kẽes$ ^b/*b$ ^toog/toogo<n><sg>$ ^n/n<cnjcoo>$ ^me/me<vblex><inf>/me<vblex><imp>/me<vblex><past><p3><sg>$ ^Burkĩna/Burkĩna<np><top><sg>$ ^Faso/Faso<np><top><sg>$ ^t/*t$’^a/*a$ ^yɩ/*yɩ$ ^laafɩ/laafɩ<n><sg>$, ^la/la<ij>/la<cnjcoo>$ ^wʋm/wʋme<vblex><imp>$ ^taab/*taab$ ^tẽnga/*tẽnga$
+[C4g2JFij-NUd#0] ^pagbã/paga<n><pl>$ ^na/*na$ ^kẽes/*kẽes$ ^b/*b$ ^toog/toogo<n><sg>$ ^n/n<cnjcoo>$ ^me/me<vblex><inf>/me<vblex><imp>/me<vblex><past><p3><sg>$ ^Burkĩna/Burkĩna<np><top><sg>$ ^Faso/Faso<np><top><sg>$ ^t’a/t'a<cnjsub>$ ^yɩ/*yɩ$ ^laafɩ/laafɩ<n><sg>$^,/,<cm>$ ^la/la<ij>/la<cnjcoo>$ ^wʋm/wʋme<vblex><imp>$ ^taab/*taab$ ^tẽnga/*tẽnga$
 [/C4g2JFij-NUd]

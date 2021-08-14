@@ -9,6 +9,15 @@
     </pipeline>
   </mode>
 
+  <mode name="mos-nmorph" install="no">
+    <pipeline>
+      <program name="uconv -x any-nfc" debug-suff="normalize"/>
+      <program name="lt-proc -w">
+        <file name="mos.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="mos-gener" install="yes">
     <pipeline>
       <program name="lt-proc -g">

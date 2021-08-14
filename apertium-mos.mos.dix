@@ -89,6 +89,8 @@
 		<sdef n="rpar" 	c="Right parenthesis"/> 
 		<sdef n="lquot" 	c="Left quote"/> 
 		<sdef n="rquot" 	c="Right quote"/>
+        <sdef n="lquest"    c="Left question mark"/>
+        <sdef n="file"      c="filename"/>
 		<sdef n="postp"    c="postposition?"/>
 		<sdef n="obj"      c="object"/>
 		<sdef n="rel"      c="relative"/>
@@ -16264,7 +16266,7 @@
 	<e>                      <par n="cometa"/></e>
 	<e>                      <par n="paresq"/></e>
 	<e>                      <par n="pardret"/></e>
-	<e>                      <par n="persons"/></e>
+	<!--<e>                      <par n="persons"/></e>-->
 	<e>                      <par n="separ"/></e>
 	<e>                      <par n="guionet"/></e>
 	<e>                      <par n="emails"/></e>
