@@ -14254,7 +14254,7 @@
 		<e>       <p><l>mba</l>       <r>nga<s n="adj"/><s n="pl"/></r></p></e>
 		<e>       <p><l>mbã</l>       <r>nga<s n="adj"/><s n="pl"/></r></p></e>
 	</pardef>
-	<pardef n="-kɩd/ga__adj">
+	<pardef n="kɩd/ga__adj">
 		<e>       <p><l>g</l>          <r>ga<s n="adj"/><s n="sg"/></r></p></e>
 		<e>       <p><l>ga</l>          <r>ga<s n="adj"/><s n="sg"/></r></p></e>
 		<e>       <p><l>gã</l>        <r>ga<s n="adj"/><s n="sg"/></r></p></e>
@@ -14306,10 +14306,14 @@
 		<e>       <p><l>yẽnda</l>       <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
 		<e>       <p><l>a</l>       <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
 		<e>       <p><l>tõnd</l>       <r>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+		<e>       <p><l>tõndo</l>       <r>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
 		<e>       <p><l>d</l>       <r>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
 		<e r="RL"><p><l>bãmb</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+		<e r="RL"><p><l>bãmba</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 		<e>       <p><l>b</l>     <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+		<e>       <p><l>ba</l>     <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 		<e>       <p><l>yãmb</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+		<e>       <p><l>yãmba</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
 		<e>       <p><l>y</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
 	</pardef>
 	<pardef n="wã__det">
