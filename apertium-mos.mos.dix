@@ -15868,7 +15868,7 @@
 	<e lm="kelge">            <i>kelg</i><par n="kelg/e__vblex"/></e>
 	<e lm="sege">             <i>seg</i><par n="seg/e__vblex"/></e>
 	<e lm="bãnge">            <i>bãng</i><par n="bãng/e__vblex"/></e>
-	<elm="gãnge">            <i>gãng</i><par n="gãng/e__vblex"/></e>
+	<e lm="gãnge">            <i>gãng</i><par n="gãng/e__vblex"/></e>
 	<e lm="kẽnge">            <i>kẽng</i><par n="kẽng/e__vblex"/></e>
 	<e lm="lebge">            <i>lebg</i><par n="lebg/e__vblex"/></e>
 	<e lm="pame">             <i>pam</i><par n="pam/e__vblex"/></e>
