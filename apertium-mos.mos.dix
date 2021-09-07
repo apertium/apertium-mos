@@ -7050,7 +7050,7 @@
 			<e>       <p><l>ã</l>        <r>e<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
 		</pardef>
 		<pardef n="yal/em__n">
-			<e>       <p><l>em</l>    <r>em<s n="n"/><s n="sg"/><<s n="ind"/></r></p></e>
+			<e>       <p><l>em</l>    <r>em<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>emã</l>    <r>em<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
 			<e>       <p><l>emdo</l>    <r>em<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>emdã</l>    <r>em<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
@@ -14237,7 +14237,7 @@
 			<e>       <p><l>ii</l>      <r>u<s n="n"/><s n="pl"/></r></p></e>
 			<e>        <p><l>ii wã</l>       <r>u<s n="n"/><s n="pl"/></r></p></e>
 		</pardef>   
-	</pardefs>		
+	    </pardefs>		
 		<section id="main" type="standard">  
 		<e lm="ãadga">           <i>ãad</i><par n="ãad/ga__n"/></e>
 		<e lm="ãadre">           <i>ãad</i><par n="ãad/re__n"/></e>
@@ -15883,7 +15883,7 @@
 		<e lm="tusri">            <i>tus</i><par n="tus/ri__num"/></e>
 		<e lm="koabga">            <i>ko</i><par n="ko/abga__num"/></e>
 		<e lm="milyõ">          <i>milyõ</i><par n="milyõ__num"/></e>
-		<e lm="nu">          <i>n</i><par n="n/u__num"/></e>
+		<e lm="nu">              <i>n</i><par n="n/u__num"/></e>
 		<e>                      <par n="prpos__det"/></e>
 		<e>                      <par n="coma"/></e>
 		<e>                      <par n="cometa"/></e>
