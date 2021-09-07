@@ -7190,7 +7190,7 @@
 			<e>       <p><l>ere</l>        <r>ere<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>er</l>        <r>ere<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>erã</l>        <r>ere<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
-			<e>       <p><l>ya</l>       <r>ere<s n="n"/><s n="pl"/></r><s n="ind"/></r></p></e>
+			<e>       <p><l>ya</l>       <r>ere<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
 				<e><p><l>yã</l>       <r>ere<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
 		</pardef>
 		<pardef n="yẽese/m__n">
@@ -15897,4 +15897,4 @@
 		<e>                      <par n="filenames"/></e>
 		<e>                      <par n="numeros"/></e>
 	</section>
-</dictionary>
+ </dictionary>
