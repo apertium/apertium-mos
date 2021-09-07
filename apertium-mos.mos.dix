@@ -1759,8 +1759,7 @@
 			<e>       <p><l>ogã</l>      <r>ogo<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
 			<e>       <p><l>do</l>       <r>ogo<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
 			<e>       <p><l>dã</l>       <r>ogo<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
-			<e>       <p><l>to</l>       <r>ogo<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
-			<e>     
+			<e>       <p><l>to</l>       <r>ogo<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>    
 		</pardef>
 		<pardef n="karen-saamb/a__n">
 			<e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
@@ -2760,8 +2759,8 @@
 			<e>       <p><l>ɛtga</l>      <r>ɛtga<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>ɛtgã</l>      <r>ɛtga<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
 			<e>       <p><l>ets</l>      <r>ɛtga<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
-			<e>       <p><l>etse</l>      <r>ɛtga<s n="n"/><s n="pl"/<s n="ind"/></r></p></e>
-			<e>       <p><l>getsã</l>     <r>ɛtga<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
+			<e>       <p><l>etse</l>      <r>ɛtga<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+			<e>       <p><l>etsã</l>     <r>ɛtga<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
 		</pardef>
 		<pardef n="nin-kẽem/a__n">
 			<e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
@@ -7053,10 +7052,11 @@
 		<pardef n="yal/em__n">
 			<e>       <p><l>em</l>    <r>em<s n="n"/><s n="sg"/><<s n="ind"/></r></p></e>
 			<e>       <p><l>emã</l>    <r>em<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
-			<e>       <p><l>emdo</l>    <r>em<s n="n"/><s n="sg"/><<s n="ind"/></r></p></e>
+			<e>       <p><l>emdo</l>    <r>em<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>emdã</l>    <r>em<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
-				<e><p><l>ma</l>      <r>em<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
-			<e>       <p><l>mã</l>      <r>em<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
+			<e>       <p><l>ma</l>    <r>em<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>m</l>    <r>em<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>mã</l>    <r>em<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
 		</pardef>
 		<pardef n="yal/le__n">
 			<e>       <p><l>le</l>        <r>le<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
@@ -15897,4 +15897,4 @@
 		<e>                      <par n="filenames"/></e>
 		<e>                      <par n="numeros"/></e>
 	</section>
- </dictionary>
+</dictionary>
