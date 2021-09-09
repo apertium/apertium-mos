@@ -2860,6 +2860,14 @@
 				<e><p><l>ya</l>        <r>ore<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
 				<e><p><l>yã</l>        <r>ore<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
 		</pardef>
+		<pardef n="no-rɛɛs/a__n">
+			<e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l></l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>ã</l>         <r>a<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
+			<e>       <p><l>dba</l>        <r>a<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+			<e>       <p><l>db</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>dbã</l>        <r>a<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
+		</pardef>
 		<pardef n="nugbĩn/ga__n">
 			<e>       <p><l>ga</l>        <r>ga<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>g</l>        <r>ga<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
@@ -8340,6 +8348,10 @@
 			<e>        <p><l>s</l>       <r>gu<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
 			<e>        <p><l>sã</l>      <r>gu<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
 		</pardef>
+		<pardef n="rabee/m__n">
+			<e>       <p><l>m</l>        <r>m<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>mã</l>        <r>m<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
+		</pardef>
 		<pardef n="ras/em__n">
 			<e>       <p><l>em</l>        <r>em<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>emã</l>        <r>em<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
@@ -13756,7 +13768,7 @@
 			<e>       <p><l>u</l>          <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
 				<e><p><l></l>        <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
 		</pardef>
-		<pardef n="Wedraog/o__np">
+		<pardef n="Wedraoog/o__np">
 			<e>       <p><l>o</l>          <r>o<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
 			<e>       <p><l></l>          <r>o<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
 				<e><p><l>ã</l>        <r>o<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
@@ -13780,7 +13792,7 @@
 		</pardef>
 		<pardef n="Kaboor/e__np">
 			<e>       <p><l>e</l>         <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
-				<e><p><l></l>        <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+			<e>   <p><l></l>             <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
 		</pardef>
 		<pardef n="Yinuus/a__np">
 			<e>       <p><l>a</l>         <r>a<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
@@ -14592,6 +14604,7 @@
 		<e lm="noaaga">          <i>no</i><par n="no/aaga__n"/></e>
 		<e lm="nodre">           <i>no</i><par n="no/dre__n"/></e>
 		<e lm="noore">           <i>no</i><par n="no/ore__n"/></e>
+		<e lm="no-rɛɛsa">        <i>no-rɛɛs</i><par n="no-rɛɛs/a__n"/></e>
 		<e lm="nugbĩnga">        <i>nugbĩn</i><par n="nugbĩn/ga__n"/></e>
 		<e lm="na-baooda">        <i>na-baood</i><par n="na-baood/a__n"/></e>
 		<e lm="nugu">            <i>nu</i><par n="nu/gu__n"/></e>
@@ -14671,6 +14684,7 @@
 		<e lm="rasãnga">         <i>rasã</i><par n="rasã/nga__n"/></e>
 		<e lm="ra-sãnga">         <i>ra-sã</i><par n="ra-sã/nga__n"/></e>
 		<e lm="rasem">         <i>ras</i><par n="ras/em__n"/></e>
+		<e lm="rabeem">         <i>rabee</i><par n="rabee/m__n"/></e>
 		<e lm="rasare">          <i>rasa</i><par n="rasa/re__n"/></e>
 		<e lm="ra-taaga">        <i>ra-taa</i><par n="ra-taa/ga__n"/></e>
 		<e lm="ra-teoogo">       <i>ra-te</i><par n="ra-te/oogo__n"/></e>
@@ -15815,7 +15829,7 @@
 		<e lm="Mark">         <i>Mark</i><par n="Mark__np"/></e>
 		<e lm="Rok">             <i>Rok</i><par n="Rok__np"/></e>
 		<e lm="Lamusa">           <i>Lamu</i><par n="Lamu/sa__np"/></e>
-		<e lm="Wedraogo">          <i>Wedraog</i><par n="Wedraog/o__np"/></e>
+		<e lm="Wedraoogo">          <i>Wedraoog</i><par n="Wedraoog/o__np"/></e>
 		<e lm="Isufu">            <i>Isuf</i><par n="Isuf/u__np"/></e>
 		<e lm="Mamadu">          <i>Mamad</i><par n="Mamad/u__np"/></e>
 		<e lm="Mamudu">          <i>Mamud</i><par n="Mamud/u__np"/></e>
