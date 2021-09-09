@@ -1557,6 +1557,7 @@
 			<e>       <p><l>u</l>         <r>u<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>ã</l>         <r>u<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
 			<e>       <p><l></l>            <r>u<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+  	</pardef>
 		<pardef n="gũud/a__n">
 			<e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l></l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
@@ -3900,6 +3901,7 @@
 			<e>       <p><l>se</l>        <r>ga<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
 			<e>       <p><l>s</l>        <r>ga<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
 			<e>       <p><l>sã</l>        <r>ga<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
+		</pardef>
 		<pardef n="sag-rʋ/ko__n">
 			<e>       <p><l>ko</l>        <r>ko<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>k</l>        <r>ko<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
