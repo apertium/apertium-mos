@@ -3191,12 +3191,12 @@
 			<e>       <p><l>s rãmbã</l>     <r>s<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
 		</pardef>
 		<pardef n="tor-bi/la__n">
-			<e>       <p><l>la</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
-			<e>       <p><l>l</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
-			<e>       <p><l>lã</l>         <r>a<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
-			<e r="LR"><p><l>i</l>        <r>a<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
-			<e r="LR"><p><l>i</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
-			<e r="LR"><p><l>wã</l>        <r>a<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
+			<e>       <p><l>la</l>         <r>la<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>l</l>         <r>la<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>lã</l>         <r>la<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
+			<e r="LR"><p><l>i</l>        <r>la<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+			<e r="LR"><p><l>i</l>         <r>la<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e r="LR"><p><l>wã</l>        <r>la<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
 		</pardef>
 		<pardef n="pʋgd/ba__n">
 			<e>       <p><l>b</l>        <r>ba<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
@@ -8066,6 +8066,10 @@
 			<e r="LR"><p><l>ẽ-beedã</l>         <r>i<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
 			<e>       <p><l>ẽ-beed</l>          <r>i<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 		</pardef>
+		<pardef n="ziir/i__n">
+			 <e>       <p><l>i</l>             <r>i<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			 <e>        <p><l>ã</l>               <r>i<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+		</pardef>
 		<pardef n="zĩri-be-ne/da__n">
 			<e>       <p><l>da</l>        <r>da<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>d</l>         <r>da<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
@@ -8519,7 +8523,8 @@
 			<e>       <p><l>s-y</l>       <r>se<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>tame</l>      <r>se<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>ta</l>        <r>se<s n="vblex"/><s n="pres"/></r></p></e>
-			<e>       <p><l>sa</l>         <r>se<s n="vblex"/><s n="past"/></r></p></e>
+			<e>       <p><l>t</l>         <r>se<s n="vblex"/><s n="pres"/></r></p></e>
+			<e>       <p><l>sa</l>        <r>se<s n="vblex"/><s n="past"/></r></p></e>
 			<e>       <p><l>same</l>      <r>se<s n="vblex"/><s n="past"/></r></p></e>
 			<e>       <p><l>sa</l>        <r>e<s n="vblex"/><s n="fut"/></r></p></e>
 			<e>       <p><l>same</l>      <r>se<s n="vblex"/><s n="fut"/></r></p></e>
@@ -11023,7 +11028,7 @@
 			<e>       <p><l>li</l>        <r>i<s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l>li</l>        <r>i<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>sẽ</l>        <r>i<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>s-y</l>       <r>i<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>       <p><l>s-y</l>       <r>i<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>same</l>      <r>i<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>sa</l>        <r>i<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>lame</l>      <r>i<s n="vblex"/><s n="past"/></r></p></e>
@@ -11035,7 +11040,7 @@
 			<e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>ɩtẽ</l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>ɩ-y</l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
+			<e>      <p><l>ɩ-y</l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>ɩtame</l>     <r><s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>ɩta</l>       <r><s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>ɩme</l>       <r><s n="vblex"/><s n="past"/></r></p></e>
@@ -11058,7 +11063,7 @@
 			<e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>      <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dame</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>da</l>        <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>d</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
@@ -11084,10 +11089,10 @@
 			<e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>       <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dame</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>da</l>        <r>e<s n="vblex"/><s n="pres"/></r></p></e>
-			<e>       <p><l>d</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+			<e>       <p><l>d</l>         <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>ame</l>       <r>e<s n="vblex"/><s n="past"/></r></p></e>
 			<e>       <p><l>a</l>         <r>e<s n="vblex"/><s n="past"/></r></p></e>
 			<e>       <p><l>a</l>        <r>e<s n="vblex"/><s n="fut"/></r></p></e>
@@ -11109,8 +11114,8 @@
 		<pardef n="maneg/e__vblex">
 			<e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l></l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>-y</l>       <r>e<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>       <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>       <p><l>-y</l>       <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dame</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>d</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>da</l>        <r>e<s n="vblex"/><s n="pres"/></r></p></e>
@@ -11218,7 +11223,7 @@
 			<e>       <p><l>i</l>         <r>ii<s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l>i</l>         <r>i<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>idẽ</l>       <r>i<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>i-y</l>       <r>i<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>       <p><l>i-y</l>       <r>i<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dame</l>      <r>i<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>da</l>        <r>i<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>ame</l>       <r>i<s n="vblex"/><s n="past"/></r></p></e>
@@ -11230,7 +11235,7 @@
 			<e>       <p><l>i</l>         <r>ii<s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l></l>         <r>i<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>idẽ</l>       <r>i<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>i-y</l>       <r>i<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>       <p><l>i-y</l>       <r>i<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dame</l>      <r>i<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>da</l>        <r>i<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>ame</l>       <r>i<s n="vblex"/><s n="past"/></r></p></e>
@@ -11268,7 +11273,7 @@
 			<e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>       <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dame</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>da</l>        <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>d</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
@@ -11281,7 +11286,7 @@
 			<e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="inf"/></r></p></e>
 			<e>       <p><l></l>          <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dẽ</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-			<e> <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
+			<e>       <p><l>-y</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
 			<e>       <p><l>dame</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>da</l>        <r>e<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>d</l>      <r>e<s n="vblex"/><s n="pres"/></r></p></e>
@@ -14033,8 +14038,8 @@
              <e>       <p><l>ng</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="sg"/></r></p></e>
 			<e>       <p><l>ense</l>       <r>ngã<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 			<e>       <p><l>ensã</l>       <r>ngã<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
-				<e><p><l>ynse</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
-				<e><p><l>ynsã</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+			<e>       <p><l>ynse</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+			<e>       <p><l>ynsã</l>        <r>ngã<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 		</pardef>
 		<pardef n="woto__prn">
 			<e>       <p><l></l>        <r><s n="prn"/><s n="dem"/><s n="sg"/></r></p></e>
@@ -14066,8 +14071,8 @@
 			<e>       <p><l>ga</l>        <r>ga<s n="prn"/><s n="dem"/><s n="sg"/></r></p></e>
 			<e>       <p><l>g</l>       <r>ga<s n="prn"/><s n="dem"/><s n="sg"/></r></p></e>
 			<e>       <p><l>gã</l>       <r>ga<s n="prn"/><s n="dem"/><s n="sg"/></r></p></e>
-				<e><p><l>si</l>        <r>ga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
-			 <e>      <p><l>s</l>        <r>ga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+			<e>       <p><l>si</l>        <r>ga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+			<e>      <p><l>s</l>        <r>ga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 			<e>      <p><l>sã</l>        <r>ga<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 		</pardef>
 		<pardef n="sẽn__prn">
@@ -14089,9 +14094,13 @@
 			<e>       <p><l></l>          <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
 				<e><p><l></l>        <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
 		</pardef>
+		<pardef n="Inespe__np">
+			<e>       <p><l></l>          <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+				<e><p><l>wã</l>        <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+		</pardef>
 		<pardef n="Barnab/e__np">
 			<e>       <p><l>e</l>          <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
-				<e><p><l></l>        <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
+			<e>       <p><l></l>        <r>e<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
 		</pardef>
 		<pardef n="Kẽemtarembũmb/u__np">
 			<e>       <p><l>u</l>          <r>u<s n="np"/><s n="pers"/><s n="sg"/></r></p></e>
@@ -14528,14 +14537,14 @@
 			<e>       <p><l>ig</l>      <r>ga<s n="n"/><s n="sg"/></r></p></e>
 			<e>       <p><l>igã</l>      <r>ga<s n="n"/><s n="sg"/></r></p></e>
 			<e r="LR"><p><l>s</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
-			<e><p>     <l>si</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
+			<e>      <p><l>si</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
 			<e>       <p><l>s-tã</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
 			<e>        <p><l>s-nu</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
 			<e>       <p><l>s-naase</l>      <r>ga<s n="n"/><s n="pl"/></r></p></e>
 			<e r="LR"><p><l>s-yoobe</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>s-yoob</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>s-yoob</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
 			<e r="LR"><p><l>soobe</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>soob</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>soob</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
 			<e>       <p><l>s-yopoe</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
 			<e r="LR"><p><l>ssopoe</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
 			<e>       <p><l>s-nii</l>      <r>ga<s n="n"/><s n="pl"/></r></p></e>
@@ -14592,16 +14601,16 @@
 			<e>       <p><l>sa-yopoe</l>       <r>ri<s n="n"/><s n="pl"/></r></p></e>
 			<e r="LR"><p><l>sa-nii</l>      <r>ri<s n="n"/><s n="pl"/></r></p></e>
 			<e>       <p><l>sa-wae</l>       <r>ri<s n="n"/><s n="pl"/></r></p></e>
-			<e r="LR"><p><l>a-</l>      <r>ga<s n="n"/><s n="pl"/></r></p></e>
-			<e>       <p><l>s-koabga</l>       <r>ga<s n="n"/><s n="pl"/></r></p></e>
+			<e r="LR"><p><l>a-</l>          <r>ri<s n="n"/><s n="pl"/></r></p></e>
+			<e>       <p><l>s-koabga</l>       <r>ri<s n="n"/><s n="pl"/></r></p></e>
 		</pardef>
 		<pardef n="n/u__num">
-			<e>       <p><l>u</l>      <r>u<s n="n"/><s n="sg"/></r></p></e>
-			<e>       <p><l>aase</l>      <r>u<s n="n"/><s n="sg"/></r></p></e>
-			<e r="LR"> <p><l>aas</l>      <r>u<s n="n"/><s n="sg"/></r></p></e>
-			<e>       <p><l>aasã</l>      <r>u<s n="n"/><s n="sg"/></r></p></e>
-			<e>       <p><l>ii</l>      <r>u<s n="n"/><s n="pl"/></r></p></e>
-			<e>        <p><l>ii wã</l>       <r>u<s n="n"/><s n="pl"/></r></p></e>
+			<e>       <p><l>u</l>            <r>u<s n="n"/><s n="sg"/></r></p></e>
+			<e>       <p><l>aase</l>        <r>u<s n="n"/><s n="sg"/></r></p></e>
+			<e r="LR"> <p><l>aas</l>        <r>u<s n="n"/><s n="sg"/></r></p></e>
+			<e>       <p><l>aasã</l>        <r>u<s n="n"/><s n="sg"/></r></p></e>
+			<e>       <p><l>ii</l>          <r>u<s n="n"/><s n="pl"/></r></p></e>
+			<e>       <p><l>ii wã</l>      <r>u<s n="n"/><s n="pl"/></r></p></e>
 		</pardef>   
   </pardefs>		
 		<section id="main" type="standard">  
@@ -14630,7 +14639,7 @@
 		<e lm="bãag biiga">      <i>bãag bii</i><par n="bãag bii/ga__n"/></e>
 		<e lm="bãag loangdga">   <i>bãag loangd</i><par n="bãag loangd/ga__n"/></e>
 		<e lm="baasgo">          <i>baas</i><par n="baas/go__n"/></e>
-		<e lm="belgre">      <i>belg</i><par n="belg/re__n"/></e>
+		<e lm="belgre">          <i>belg</i><par n="belg/re__n"/></e>
 		<e lm="babg soaba">      <i>babg</i><par n="babg /soaba__n"/></e>
 		<e lm="ba-biiga">        <i>ba-bii</i><par n="ba-bii/ga__n"/></e>
 		<e lm="badga">           <i>bad</i><par n="bad/ga__n"/></e>
@@ -14958,7 +14967,7 @@
 		<e lm="noore">           <i>no</i><par n="no/ore__n"/></e>
 		<e lm="no-rɛɛsa">        <i>no-rɛɛs</i><par n="no-rɛɛs/a__n"/></e>
 		<e lm="nugbĩnga">        <i>nugbĩn</i><par n="nugbĩn/ga__n"/></e>
-		<e lm="na-baooda">        <i>na-baood</i><par n="na-baood/a__n"/></e>
+		<e lm="na-baooda">       <i>na-baood</i><par n="na-baood/a__n"/></e>
 		<e lm="nugu">            <i>nu</i><par n="nu/gu__n"/></e>
 		<e lm="paasda">          <i>paasd</i><par n="paasd/a__n"/></e>
 		<e lm="padenga">         <i>paden</i><par n="paden/ga__n"/></e>
@@ -14967,7 +14976,7 @@
 		<e lm="pagdga">          <i>pagd</i><par n="pagd/ga__n"/></e>
 		<e lm="paoko">           <i>pa</i><par n="pa/oko__n"/></e>
 		<e lm="Pagtɩ">           <i>Pagt</i><par n="Pagt/ɩ__n"/></e>
-		<e lm="porvẽes">           <i>porvẽe</i><par n="porvẽe/s__n"/></e>
+		<e lm="porvẽes">         <i>porvẽe</i><par n="porvẽe/s__n"/></e>
 		<e lm="pãnga">           <i>pã</i><par n="pã/nga__n"/></e>
 		<e lm="peoogo">          <i>pe</i><par n="pe/oogo__n"/></e>
 		<e lm="sapaolgo">         <i>sapa</i><par n="sapa/olgo__n"/></e>
@@ -15651,6 +15660,7 @@
 		<e lm="zĩm-yẽeda">      <i>zĩm-yẽed</i><par n="zĩm-yẽed/a__n"/></e>
 		<e lm="zĩnfu">           <i>zĩ</i><par n="zĩ/nfu__n"/></e>
 		<e lm="ziri">            <i>zir</i><par n="zir/i__n"/></e>
+		<e lm="ziiri">            <i>ziir</i><par n="ziir/i__n"/></e>
 		<e lm="zĩri-be-neda">    <i>zĩri-be-ne</i><par n="zĩri-be-ne/da__n"/></e>
 		<e lm="zir-wẽnda">       <i>zir-wẽnd</i><par n="zir-wẽnd/a__n"/></e>
 		<e lm="zĩ-sobdo">        <i>zĩ-sobd</i><par n="zĩ-sobd/o__n"/></e>
@@ -16135,31 +16145,31 @@
 		<e lm="zelbre">         <i>zel</i><par n="zel/bre__adj"/></e>
 		<e lm="zem-to">             <i>zem-t</i><par n="zem-t/o__adj"/></e>
 		<e lm="wagelle">           <i>wag</i><par n="wag/elle__adj"/></e>
-		<e lm="bedre">          <i>b</i><par n="b/edre__adj"/></e>
+		<e lm="bedre">             <i>b</i><par n="b/edre__adj"/></e>
 		<e lm="kãsenga">             <i>kãse</i><par n="kãse/nga__adj"/></e>
 		<e lm="kasenga">           <i>kase</i><par n="kase/nga__adj"/></e>
-		<e lm="woko">          <i>wo</i><par n="wo/ko__adj"/></e>
-		<e lm="a">             <i>a</i><par n="a__det"/></e>
-		<e lm="rãmba">        <i>rãmb</i><par n="rãmb/a__det"/></e>
-		<e lm="dãmba">        <i>dãmb</i><par n="dãmb/a__det"/></e>
-		<e lm="wã">          <i>wã</i><par n="wã__det"/></e>
+		<e lm="woko">            <i>wo</i><par n="wo/ko__adj"/></e>
+		<e lm="a">              <i>a</i><par n="a__det"/></e>
+		<e lm="rãmba">          <i>rãmb</i><par n="rãmb/a__det"/></e>
+		<e lm="dãmba">           <i>dãmb</i><par n="dãmb/a__det"/></e>
+		<e lm="wã">              <i>wã</i><par n="wã__det"/></e>
 		<e lm="maam">             <i>maam</i><par n="maam__prn"/></e>
 		<e lm="meng">             <i>meng</i><par n="meng__prn"/></e>
 		<e lm="fo">             <i>fo</i><par n="fo__prn"/></e>
-		<e lm="yẽ">         <i>yẽ</i><par n="yẽ__prn"/></e>
+		<e lm="yẽ">             <i>yẽ</i><par n="yẽ__prn"/></e>
 		<e lm="yẽnda">          <i>yẽnda</i><par n="yẽnda__prn"/></e>
-		<e lm="taaba">       <i>taab</i><par n="taab/a__prn"/></e>
-		<e lm="tõndo">        <i>tõnd</i><par n="tõnd/o__prn"/></e>
-		<e lm="mense">      <i>mense</i><par n="mense__prn"/></e>
+		<e lm="taaba">          <i>taab</i><par n="taab/a__prn"/></e>
+		<e lm="tõndo">          <i>tõnd</i><par n="tõnd/o__prn"/></e>
+		<e lm="mense">          <i>mense</i><par n="mense__prn"/></e>
 		<e lm="to">             <i>to</i><par n="to__prn"/></e>
 		<e lm="kada">            <i>kad</i><par n="kad/a__prn"/></e>
 		<e lm="kãnga">            <i>kã</i><par n="kã/nga__prn"/></e>
 		<e lm="ninga">            <i>nin</i><par n="nin/ga__prn"/></e>
-		<e lm="woto">            <i>woto</i><par n="woto__prn"/></e>
-		<e lm="yãoã">          <i>yãoã</i><par n="yãoã__prn"/></e>
-		<e lm="rẽ">          <i>rẽ</i><par n="rẽ__prn"/></e>
-		<e lm="rẽnda">         <i>rẽnda</i><par n="rẽnda__prn"/></e>
-		<e lm="ada">         <i>ada</i><par n="ada__prn"/></e>
+		<e lm="woto">             <i>woto</i><par n="woto__prn"/></e>
+		<e lm="yãoã">             <i>yãoã</i><par n="yãoã__prn"/></e>
+		<e lm="rẽ">              <i>rẽ</i><par n="rẽ__prn"/></e>
+		<e lm="rẽnda">           <i>rẽnda</i><par n="rẽnda__prn"/></e>
+		<e lm="ada">              <i>ada</i><par n="ada__prn"/></e>
 		<e lm="yõwã">             <i>yõwã</i><par n="yõwã__prn"/></e>
 		<e lm="bãmba">           <i>bãmb</i><par n="bãmb/a__prn"/></e>
 		<e lm="sẽn">          <i>sẽn</i><par n="sẽn__prn"/></e>
@@ -16167,19 +16177,19 @@
 		<e lm="Fapepe">             <i>Fapepe</i><par n="Fapepe__np"/></e>
 		<e lm="Waogdgo">             <i>Waogdg</i><par n="Waogdg/o__np"/></e>
 		<e lm="Nizɛr">             <i>Nizɛr</i><par n="Nizɛr__np"/></e>
-		<e lm="Gana">         <i>Gana</i><par n="Gana__np"/></e>    
+		<e lm="Gana">          <i>Gana</i><par n="Gana__np"/></e>    
 		<e lm="Faso">          <i>Faso</i><par n="Faso__np"/></e>
 		<e lm="Kosyama">       <i>Kosyam</i><par n="Kosyam/a__np"/></e>
-		<e lm="Bobo">        <i>Bobo</i><par n="Bobo__np"/></e>
-		<e lm="Burkĩna">      <i>Burkĩn</i><par n="Burkĩn/a__np"/></e>
-		<e lm="Bilgo">             <i>Bilg</i><par n="Bilg/o__np"/></e>
+		<e lm="Bobo">          <i>Bobo</i><par n="Bobo__np"/></e>
+		<e lm="Burkĩna">       <i>Burkĩn</i><par n="Burkĩn/a__np"/></e>
+		<e lm="Bilgo">         <i>Bilg</i><par n="Bilg/o__np"/></e>
 		<e lm="Ado">            <i>Ado</i><par n="Ado__np"/></e>
 		<e lm="Akufo">            <i>Akufo</i><par n="Akufo__np"/></e>
 		<e lm="Nana">            <i>Nana</i><par n="Nana__np"/></e>
 		<e lm="Yinuusa">          <i>Yinuus</i><par n="Yinuus/a__np"/></e>
 		<e lm="Kaboore">          <i>Kaboor</i><par n="Kaboor/e__np"/></e>
 		<e lm="Kiristẽ">            <i>Kiristẽ</i><par n="Kiristẽ__np"/></e>
-		<e lm="Mark">         <i>Mark</i><par n="Mark__np"/></e>
+		<e lm="Mark">               <i>Mark</i><par n="Mark__np"/></e>
 		<e lm="Rok">             <i>Rok</i><par n="Rok__np"/></e>
 		<e lm="Lamusa">           <i>Lamu</i><par n="Lamu/sa__np"/></e>
 		<e lm="Wedraoogo">          <i>Wedraoog</i><par n="Wedraoog/o__np"/></e>
@@ -16191,6 +16201,7 @@
 		<e lm="Kẽemtarembũmbu">         <i>Kẽemtarembũmb</i><par n="Kẽemtarembũmb/u__np"/></e>
 		<e lm="Barnabe">             <i>Barnab</i><par n="Barnab/e__np"/></e>
 		<e lm="ɛrpeyi__np">           <i>ɛrpeyi</i><par n="ɛrpeyi__np"/></e>
+		<e lm="Inespe">           <i>Inespe</i><par n="Inespe__np"/></e>
 		<e lm="Waga deemilli">          <i>Waga deemilli</i><par n="Waga deemilli__np"/></e>
 		<e lm="yaa">             <i>yaa</i><par n="yaa__ij"/></e>
 		<e lm="kend-kẽnde">             <i>kend-kẽnde</i><par n="kend-kẽnde__ij"/></e>
@@ -16246,12 +16257,12 @@
 		<e lm="sã">           <i>sã</i><par n="sã_vbmod"/></e>
 		<e lm="kõn">           <i>kõn</i><par n="kõn_vbmod"/></e>
 		<e lm="nan">           <i>nan</i><par n="nan_vbmod"/></e>
-		<e lm="piiga">           <i>pi</i><par n="pi/iga__num"/></e>
-		<e lm="yembre">            <i>y</i><par n="y/embre__num"/></e>
-		<e lm="yoobe">            <i>yo</i><par n="yo/obe__num"/></e>
-		<e lm="tusri">            <i>tus</i><par n="tus/ri__num"/></e>
-		<e lm="koabga">            <i>ko</i><par n="ko/abga__num"/></e>
-		<e lm="milyõ">          <i>milyõ</i><par n="milyõ__num"/></e>
+		<e lm="piiga">          <i>pi</i><par n="pi/iga__num"/></e>
+		<e lm="yembre">         <i>y</i><par n="y/embre__num"/></e>
+		<e lm="yoobe">          <i>yo</i><par n="yo/obe__num"/></e>
+		<e lm="tusri">          <i>tus</i><par n="tus/ri__num"/></e>
+		<e lm="koabga">         <i>ko</i><par n="ko/abga__num"/></e>
+		<e lm="milyõ">           <i>milyõ</i><par n="milyõ__num"/></e>
 		<e lm="nu">              <i>n</i><par n="n/u__num"/></e>
 		<e>                      <par n="prpos__det"/></e>
 		<e>                      <par n="coma"/></e>
