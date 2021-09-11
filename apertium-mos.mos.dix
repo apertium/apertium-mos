@@ -8526,7 +8526,7 @@
 			<e>       <p><l>t</l>         <r>se<s n="vblex"/><s n="pres"/></r></p></e>
 			<e>       <p><l>sa</l>        <r>se<s n="vblex"/><s n="past"/></r></p></e>
 			<e>       <p><l>same</l>      <r>se<s n="vblex"/><s n="past"/></r></p></e>
-			<e>       <p><l>sa</l>        <r>e<s n="vblex"/><s n="fut"/></r></p></e>
+			<e>       <p><l>sa</l>        <r>se<s n="vblex"/><s n="fut"/></r></p></e>
 			<e>       <p><l>same</l>      <r>se<s n="vblex"/><s n="fut"/></r></p></e>
 		</pardef>
 		<pardef n="wa__vblex">
