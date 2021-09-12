@@ -503,6 +503,19 @@
 			<e>       <p><l>s</l>        <r>go<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
 			<e>       <p><l>sã</l>        <r>go<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
 		</pardef>
+		<pardef n="baoob/o__n">
+			<e>       <p><l>o</l>       <r>o<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l></l>        <r>o<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>ã</l>       <r>o<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
+		</pardef>
+		<pardef n="baood/a__n">
+			<e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l></l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>ã</l>         <r>a<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
+			<e>       <p><l>ba</l>        <r>a<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+			<e>       <p><l>b</l>         <r>a<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>bã</l>        <r>a<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
+		</pardef>
 		<pardef n="baor/go__n">
 			<e>       <p><l>go</l>        <r>go<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>g</l>        <r>go<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
@@ -2735,6 +2748,17 @@
 			<e>    <p><l>odã</l>        <r>odre<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
 		</pardef>
 		<pardef n="na-ne/nga__n">
+			<e>       <p><l>nga</l>        <r>nga<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>ng</l>        <r>nga<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
+			<e>       <p><l>ngã</l>        <r>nga<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
+			<e>       <p><l>nse</l>        <r>nga<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+			<e>       <p><l>ns</l>        <r>nga<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+			<e>       <p><l>nsã</l>        <r>nga<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
+			<e>       <p><l>mse</l>        <r>nga<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+			<e>       <p><l>ms</l>        <r>nga<s n="n"/><s n="pl"/><s n="ind"/></r></p></e>
+			<e>       <p><l>msã</l>        <r>nga<s n="n"/><s n="pl"/><s n="def"/></r></p></e>
+		</pardef>
+		<pardef n="ne/nga__n">
 			<e>       <p><l>nga</l>        <r>nga<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>ng</l>        <r>nga<s n="n"/><s n="sg"/><s n="ind"/></r></p></e>
 			<e>       <p><l>ngã</l>        <r>nga<s n="n"/><s n="sg"/><s n="def"/></r></p></e>
@@ -14666,6 +14690,8 @@
 		<e lm="bãoko">           <i>bã</i><par n="bã/oko__n"/></e>
 		<e lm="bãoogo">          <i>bã</i><par n="bã/oogo__n"/></e>
 		<e lm="baoosgo">         <i>baoos</i><par n="baoos/go__n"/></e>
+		<e lm="baoobo">         <i>baoob</i><par n="baoob/o__n"/></e>
+		<e lm="baooda">         <i>baood</i><par n="baood/a__n"/></e>
 		<e lm="baorgo">          <i>baor</i><par n="baor/go__n"/></e>
 		<e lm="bã-piuugdum">     <i>bã-piuug</i><par n="bã-piuug/dum__n"/></e>
 		<e lm="barga">           <i>bar</i><par n="bar/ga__n"/></e>
@@ -14950,6 +14976,7 @@
 		<e lm="neere">           <i>ne</i><par n="ne/ere__n"/></e>
 		<e lm="nemdo">           <i>nem</i><par n="nem/do__n"/></e>
 		<e lm="na-nenga">        <i>na-ne</i><par n="na-ne/nga__n"/></e>
+		<e lm="nenga">        <i>ne</i><par n="ne/nga__n"/></e>
 		<e lm="nen-yilinga">     <i>nen-yili</i><par n="nen-yili/nga__n"/></e>
 		<e lm="neoodre">         <i>neo</i><par n="neo/odre__n"/></e>
 		<e lm="ningɛtga">        <i>ning</i><par n="ning/ɛtga__n"/></e>
